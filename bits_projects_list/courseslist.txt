@@ -1,0 +1,947 @@
+Course No Course Title L P U
+BIOT F211 Biological Chemistry 3 0 3
+BIOT F212 Microbiology 3 1 4
+BIOT F213 Cell biology 3 0 3
+BIOT F215 Biophysics 3 0 3
+BIOT F241 Genetic Engineering Techniques 1 3 4
+BIOT F243 Genetics 3 0 3
+BIOT F244 Instrumental Methods of Analysis 1 3 4
+BIOT F245 Intro to Environmental Biotechnology 3 0 3
+BIOT F311 Recombinant DNA Technology 3 0 3
+BIOT F314 Industrial Microbiology and Bioprocess Engineering 2 2 4
+BIOT F342 Immunology 3 0 3
+BIOT F343 Experiments in Biotechnology 0 3 3
+BIOT F344 Downstream Processing 2 1 3
+BIOT F242 Introduction to Bioinformatics 3 0 3
+BIOT F345 Proteomics 3 0 3
+BIOT F346 Genomics 3 0 3
+BIOT F347 Immunotechnology 3 0 3
+BIOT F352 Cell and Tissue Culture Technology 3 0 3
+BIOT F413 Molecular Biology of the Cell 3 0 3
+BIOT F416 Introduction to Pharmaceutical Biotechnology 3 0 3
+BIOT F417 Biomolecular Modeling 3 0 3
+BIOT F420 Introduction to Plant Biotechnology 3 0 3
+BIOT F422 Nanobiotechnology 3 0 3
+BIOT F423 Drug design and delivery 3 0 3
+BIOT F424 Food Biotechnology 3 0 3
+BITS F467 Bioethics and Biosafety 3 0 3
+CHE F211 Chemical Process Calculations 3 0 3
+CHE F212 Fluid Mechanics 3 0 3
+CHE F213 Chemical Engineering Thermodynamics 3 0 3
+CHE F214 Engineering Chemistry 3 0 3
+CHE F241 Heat Transfer 3 0 3
+CHE F242 Numerical Methods for Chemical Engineers 3 0 3
+CHE F243 Material Science and Engg. 3 0 3
+CHE F244 Separation Processes I 3 0 3
+CHE F311 Kinetics and Reactor Design 3 0 3
+CHE F312 Chemical Engineering Lab I 0 3 3
+CHE F313 Separation Processes II 3 0 3
+CHE F314 Process Design Principles I 3 0 3
+CHE F341 Chemical Engineering Lab II 0 3 3
+CHE F342 Process Dynamics and Control 3 0 3
+CHE F343 Process Design Principles II 3 0 3
+BIO G671 Bioconversion Technology 3 2 5
+BIOT F245 Introduction to Environmental Biotechnology 3 0 3
+BIOT F344 Downstream processing 2 1 3
+BITS F415 Introduction to MEMS 3 1 4
+BITS F416 Introduction to Nanoscience 3 0 3
+BITS F417 Microfluidics and its application 0 0 4
+BITS F418 Introduction to Biomedical Engineering 3 1 4
+BITS F429 Nanotechnology for Renewable Energy and Environment 3 1 4
+CHE F411 Environmental Pollution Control 3 0 3
+CHE F412 Process Equipment Design 3 0 3
+CHE F413 Process Plant Safety 3 0 3
+CHE F414 Transport Phenomena 3 0 3
+CHE F415 Molecular and Statistical Thermodynamics 3 0 3
+CHE F416 Process Plant Design Project I 0 0 3
+CHE F417 Process Plant Design Project II 0 0 3
+CHE F418 Modelling and Simulation in Chemical Engineering 3 0 3
+CHE F419 Chemical Process Technology 3 0 3
+CHE F421 Bio-chemical Engineering 3 0 3
+CHE F422 Petroleum Refining Technology 3 0 3
+CHE F423 Membrane Science and Engineering 3 0 3
+CHE F424 Rheology of Complex Fluids 3 0 3
+CHE F433 Corrosion Engineering 3 0 3
+CHE F471 Advanced Process Control 3 0 3
+CHE F497 Atomic and Molecular Simulations 0 0 3
+CHE F498 Colloids and Interface Engineering 0 0 3
+CHE G511 Fluidization Engineering 3 1 4
+CHE G512 Petroleum Refining and Petrochemicals 3 1 4
+CHE G513 Environmental Management Systems 3 2 5
+CHE G522 Polymer Technology 3 1 4
+CHE G523 Mathematical Methods in Chemical Engineering 0 0 5
+CHE G524 Introduction to Multiphase flow 3 1 4
+CHE G526 Nuclear Engineering 3 1 4
+CHE G527 Energy Conservation and Management 3 1 4
+CHE G528 Introduction to Nanoscience & Technology 3 1 4
+CHE G529 Pulp & Paper Technology 3 1 4
+CHE G532 Alternate Energy Resources 3 1 4
+CHE G533 Petroleum Product Characterization 3 2 5
+CHE G551 Advanced Separation Technology 3 2 5
+CHE G552 Advanced Transport Phenomena 0 0 5
+CHE G554 Computational Fluid Dynamics 0 0 4
+CHE G556 Electrochemical Engineering 3 1 4
+CHE G557 Energy Systems Engineering 0 0 4
+CHE G558 Chemical Process Optimization 0 0 4
+CHE G568 Modeling and Simulation in Petroleum Refining 0 0 4
+CHE G613 Advanced Mass Transfer 3 2 5
+CHE G614 Advanced Heat Transfer 3 2 5
+CHE G616 Petroleum Reservoir Engineering 0 0 5
+CHE G617 Petroleum Refinery Engg. 3 2 5
+CHE G618 Petroleum Downstream Processing 3 2 5
+CHE G619 Process Intensification 3 2 5
+CHE G620 Energy Integration Analysis 3 1 4
+CHE G622 Advanced Chemical Engineering Thermodynamics 0 0 5
+CHE G641 Reaction Engineering 0 0 5
+CHEM F325 Polymer Chemistry 3 0 3
+CE F211 Mechanics of Solids 3 0 3
+CE F213 Surveying 3 1 4
+CE F230 Civil Engineering Materials 0 0 4
+CE F231 Fluid Mechanics 0 0 3
+CE F241 Analysis of Structures 3 0 3
+CE F242 Construction Planning and Technology 3 0 3
+CE F243 Soil Mechanics 3 1 4
+CE F244 Highway Engineering 3 1 4
+CE F312 Hydraulics Engineering 3 1 4
+CE F313 Foundation Engineering 3 0 3
+CE F320 Design of Reinforced Concrete Structures 0 0 3
+CE F321 Engineering Hydrology 0 0 3
+CE F342 Water & Waste Water Treatment 3 1 4
+CE F343 Design of Steel Structures 3 0 3
+BITS F313 Multicriterion Decision Making in Engg. and Management 3 0 3
+CE F323 Introduction to Environmental Engineering 3 0 3
+CE F324 Numerical Analysis 3 0 3
+CE F325 Fundamentals of Rock Mechanics 3 0 3
+CE F345 Computational Geomechanics 3 0 3
+CE F411 Operation Research for Engineers 3 0 3
+CE F412 Disaster Management 3 0 3
+CE F413 Advanced Structural Design 3 0 3
+CE F415 Design of Prestressed Concrete Structure 3 0 3
+CE F416 Computer Applications in Civil Engineering 3 1 4
+CE F417 Applications of Artificial Intelligence in Civil Engg. 3 0 3
+CE F419 Geotechnical Earthquake Engg. and Machine Foundation 3 0 3
+CE F420 Introduction to Bridge Engineering 3 0 3
+CE F421 Analysis and Design of FRP Reinforced Concrete Structures 3 0 3
+CE F422 Urban Hydrology 2 1 3
+CE F423 Green Buildings and Energy Conservation 3 0 3
+CE F425 Airport, Railways and Waterways 3 0 3
+CE F426 Geosynthetics and Reinforced Soil Structure 3 0 3
+CE F427 System Modeling and Analysis 3 0 3
+CE F428 Earthquake Resistant Design and Construction 3 0 3
+CE F429 Design of Foundation Systems 3 0 3
+CE F430 Design of Advanced Concrete Structures 3 0 3
+CE F431 Principles of Geographical Information Systems 3 1 4
+CE F432 Structural Dynamics 3 0 3
+CE F433 Remote Sensing and Image Processing 3 1 4
+CE F434 Environmental Impact Assessment 3 0 3
+CE F435 Introduction to Finite Element Methods 3 0 3
+CS F211 Data Structures & Algorithms 3 1 4
+CS F212 Database Systems 3 1 4
+CS F213 Object Oriented Programming 3 1 4
+CS F214 Logic in Computer Science 3 0 3
+CS F215 Digital Design 3 1 4
+CS F222 Discrete Structures for Computer Science 3 0 3
+CS F241 Microprocessors & Interfacing 3 1 4
+CS F301 Principles of Programming Languages 2 0 2
+CS F303 Computer Networks 3 1 4
+CS F342 Computer Architecture 3 1 4
+CS F351 Theory of Computation 3 0 3
+CS F363 Compiler Construction 2 1 3
+CS F364 Design & Analysis of Algorithms 3 0 3
+CS F372 Operating Systems 3 0 3
+BITS F311 Image Processing 3 0 3
+BITS F312 Neural Networks and Fuzzy Logic 3 0 3
+BITS F343 Fuzzy Logic and Applications 3 0 3
+BITS F364 Human – Computer Interaction 3 0 3
+BITS F386 Quantum Information and Computation 3 0 3
+BITS F463 Cryptography 3 0 3
+BITS F464 Machine Learning 3 0 3
+BITS F465 Enterprise Computing 3 1 4
+BITS F466 Service Oriented Computing 3 1 4
+CS F314 Software Development for Portable Devices 2 1 3
+CS F320 Foundations of Data Science 3 0 3
+CS F401 Multimedia Computing 3 0 3
+CS F402 Computational Geometry 3 0 3
+CS F407 Artificial Intelligence 3 0 3
+CS F413 Internetworking Technologies 3 0 3
+CS F415 Data Mining 3 0 3
+CS F422 Parallel Computing 3 0 3
+CS F424 Software for Embedded Systems 3 1 4
+CS F441 Selected Topics from Computer Science 0 0 3
+CS F444 Real Time Systems 3 0 3
+CS F446 Data Storage Technologies and Networks 3 0 3
+CS F468 Information Security Project 0 3 3
+CS F469 Information Retrieval 3 0 3
+CS G513 Network Security 3 1 4
+CS G527 Cloud Computing 0 0 5
+IS F311 Computer Graphics 3 0 3
+IS F341 Software Engineering 3 1 4
+IS F462 Network Programming 3 0 3
+MATH F231 Number Theory 3 0 3
+MATH F421 Combinatorial Mathematics 3 0 3
+MATH F441 Discrete Mathematical Structures 3 0 3
+EEE F211 Electrical Machines 3 1 4
+EEE F212 Electromagnetic Theory 3 0 3
+EEE F214 Electronic Devices 3 0 3
+EEE F215 Digital Design 3 1 4
+EEE F241 Microprocessors and interfacing 3 1 4
+EEE F242 Control Systems 3 0 3
+EEE F243 Signals & Systems 3 0 3
+EEE F244 Microelectronic Circuits 3 0 3
+EEE F311 Communication Systems 3 1 4
+EEE F312 Power Systems 3 0 3
+EEE F313 Analog & Digital VLSI Design 3 0 3
+EEE F341 Analog Electronics 3 1 4
+EEE F342 Power Electronics 3 1 4
+MATH F212 Optimization 3 0 3
+BITS F312 Neural Networks and Fuzzy Logic 3 0 3
+BITS F415 Introduction To MEMS 3 1 4
+CS F213 Object Oriented Programming 3 1 4
+CS F342 Computer Architecture 3 1 4
+CS F372 Operating Systems 3 0 3
+CS F451 Combinatorial Mathematics 3 0 3
+CS G553 Reconfigurable Computing 0 0 5
+ECE F312 EM Fields and Microwave Engineering Laboratory 0 1 1
+ECE F343 Communication Networks 3 0 3
+EEE F245 Control System Laboratory 0 1 1
+EEE F246 Electrical and Electronic Circuits Laboratory 0 2 2
+EEE F312 EM Fields and Microwave Engineering 3 0 3
+EEE F345 Power Apparatus & Networks 3 0 3
+EEE F346 Data Communication Networks 2 0 2
+EEE F348 FPGA Based System Design Laboratory 0 2 2
+EEE F411 Internet of Things 3 1 4
+EEE F414 Telecommunication Switching Systems & Networks 3 0 3
+EEE F416 Digital Communication 3 0 3
+EEE F417 Computer Based Control System 3 0 3
+EEE F418 Modern Communication Technologies 3 0 3
+EEE F422 Modern Control Systems 3 0 3
+EEE F425 Power System Analysis and control 3 0 3
+EEE F426 Fiber Optics & Optoelectronics 3 0 3
+EEE F427 Electric Power Utilization and Illumination 3 0 3
+EEE F431 Mobile Telecommunication Networks 3 0 3
+EEE F432 Medical Instrumentation 3 0 3
+EEE F433 Electromagnetic Fields & Waves 3 0 3
+EEE F477 Modelling of Field-Effect NanoDevices 3 0 3
+EEE F478 Power Systems Laboratory 0 2 2
+EEE G512 Embedded System Design 3 1 4
+EEE G626 Hardware Software Co-Design 0 0 4
+ECE F211 Electrical Machines 3 1 4
+ECE F212 Electromagnetic Theory 3 0 3
+ECE F214 Electronic Devices 3 0 3
+ECE F215 Digital Design 3 1 4
+ECE F241 Microprocessors and interfacing 3 1 4
+ECE F242 Control Systems 3 0 3
+ECE F243 Signals & Systems 3 0 3
+EEE F434 Digital Signal Processing 3 1 4 
+EEE F435 Digital Image Processing 3 0 3 
+EEE F436 Electromagnetic Compatibility 3 1 4 
+EEE F462 Advanced Power Systems 3 0 3 
+EEE F472 Satellite Communication 3 0 3 
+EEE F473 Wind Electrical Systems 3 0 3 
+EEE F474 Antenna Theory and Design 3 1 4 
+EEE F475 Special Electrical Machines 3 1 4 
+EEE F476 Switchgear and Protection 3 1 4 
+ECE F244 Microelectronic Circuits 3 0 3
+ECE F311 Communication Systems 3 1 4
+ECE F314 Electromagnetic Fields & Microwave Engineering 3 0 3
+ECE F341 Analog Electronics 3 1 4
+ECE F344 Information Theory & Coding 3 0 3
+ECE F434 Digital Signal Processing 3 1 4
+BITS F415 Introduction to MEMS 3 1 4
+BITS F463 Cryptography 3 0 3
+CS F213 Object Oriented Programming 3 1 4
+CS F342 Computer Architecture 3 1 4
+CS F372 Operating Systems 3 0 3
+CS F451 Combinatorial Mathematics 3 0 3
+CS G553 Reconfigurable Computing 0 0 5
+ECE F312 EM Fields and Microwave Engineering Laboratory 0 1 1
+ECE F414 Telecommunication Switching Systems & Networks 3 0 3
+ECE F416 Digital Communication 3 0 3
+ECE F418 Modern Communication Technologies 3 0 3
+ECE F431 Mobile Telecommunication Networks 3 0 3
+ECE F472 Satellite Communication 3 0 3
+EEE F245 Control System Laboratory 0 1 1
+EEE F246 Electrical and Electronic Circuits Laboratory 0 2 2
+EEE F313 Analog & Digital VLSI Design 3 0 3
+EEE F345 Power Apparatus & Networks 3 0 3
+EEE F346 Data Communication Networks 2 0 2
+EEE F348 FPGA Based System Design Laboratory 0 2 2
+EEE F411 Internet of Things 3 1 4
+EEE F417 Computer Based Control System 3 0 3
+EEE F422 Modern Control Systems 3 0 3
+EEE F426 Fiber Optics and Optoelectronics 3 0 3
+EEE F432 Medical Instrumentation 3 0 3
+EEE F434 Digital Signal Processing 3 1 4
+EEE F435 Digital Image Processing 3 0 3
+EEE F436 Electromagnetic Compatibility 3 1 4
+EEE F474 Antenna Theory and Design 3 1 4
+EEE F475 Special Electrical Machines 3 1 4
+EEE F476 Switchgear and Protection 3 1 4
+EEE F477 Modelling of Field-Effect Nano Devices 3 0 3
+EEE F478 Power Systems Laboratory 0 2 2
+EEE G512 Embedded System Design 3 1 4
+EEE G626 Hardware Software Co-Design 0 0 4
+INSTR F412 Analysis Instrumentation 3 0 3
+INSTR F211 Electrical Machines 3 1 4
+INSTR F212 Electromagnetic Theory 3 0 3
+INSTR F214 Electronic Devices 3 0 3
+INSTR F215 Digital Design 3 1 4
+INSTR F241 Microprocessors and interfacing 3 1 4
+INSTR F242 Control Systems 3 0 3
+INSTR F243 Signals & Systems 3 0 3
+INSTR F244 Microelectronic Circuits 3 0 3
+INSTR F311 Electronic Instrumentation & Instrumentation Technology 3 1 4
+INSTR F312 Transducers and Measurement Systems 3 0 3
+INSTR F313 Analog & Digital VLSI Design 3 0 3
+INSTR F341 Analog Electronics 3 1 4
+INSTR F342 Power Electronics 3 1 4
+INSTR F343 Industrial Instrumentation & Control 3 0 3
+BITS F312 Neural Network & Fuzzy Logic 3 0 3
+BITS F415 Introduction To MEMS 3 1 4
+CS F213 Object Oriented Programming 3 1 4
+CS F342 Computer Architecture 3 1 4
+CS F372 Operating Systems 3 0 3
+CS F451 Combinatorial Mathematics 3 0 3
+CS G553 Reconfigurable Computing 0 0 5
+ECE F312 EM Fields and Microwave Engineering Laboratory 0 1 1
+ECE F314 Electromagnetic Fields & Microwave Engineering 3 0 3
+EEE F245 Control System Laboratory 0 1 1
+EEE F246 Electrical and Electronic Circuits Laboratory 0 2 2
+EEE F311 Communication Systems 3 1 4
+EEE F345 Power Apparatus & Networks 3 0 3
+EEE F346 Data Communication Networks 2 0 2
+EEE F348 FPGA Based System Design Laboratory 0 2 2
+EEE F411 Internet of Things 3 1 4
+EEE F417 Computer Based Control System 3 0 3
+EEE F422 Modern Control Systems 3 0 3
+EEE F426 Fiber optics & Optoelectronics 3 0 3
+EEE F427 Electric Power Utilization and Illumination 3 0 3
+EEE F431 Mobile Telecommunication Networks 3 0 3
+EEE F433 Electromagnetic Fields & Waves 3 0 3
+EEE F434 Digital Signal Processing 3 1 4
+EEE F435 Digital Image Processing 3 0 3
+EEE F436 Electromagnetic Compatibility 3 1 4
+EEE F472 Satellite Communication 3 0 3
+EEE F474 Antenna Theory and Design 3 1 4
+EEE F475 Special Electrical Machines 3 1 4
+EEE F476 Switchgear and Protection 3 1 4
+EEE F477 Modelling of Field-Effect Nano Devices 3 0 3
+EEE F478 Power Systems Laboratory 0 2 2
+EEE G512 Embedded System Design 3 1 4
+EEE G626 Hardware Software Co-Design 0 0 4
+INSTR F413 Advanced Process Control 3 0 3
+INSTR F414 Telecommunication Switching Systems & Networks 3 0 3
+INSTR F415 Digital Control 3 0 3
+INSTR F419 Virtual Instrumentation 3 1 4
+INSTR F420 Design of Instrumentation Systems 3 0 3
+INSTR F422 Instrumentation for Petrochemical Industry 3 0 3
+INSTR F432 Medical Instrumentation 3 0 3
+INSTR F473 Wind Electrical Systems 3 0 3
+MF F211 Mechanics of Solids 3 0 3
+MF F216 Materials Science and Engineering 2 1 3 
+MF F217 Machine Drawing 0 2 2 
+MF F218 Transport Phenomena in Manufacturing 3 1 4 
+MF F219 Operations Management 3 0 3
+MF F220 Metrology and Quality Assurance 2 1 3 
+MF F221 Mechanisms and Machines 3 0 3
+MF F222 Casting, Forming and Welding 3 1 4 
+MF F314 Design of Machine Elements 3 0 3 
+MF F315 Automation and Control 3 1 4 
+MF F316 Machining and Machine Tools 3 1 4
+MF F317 Computer Aided Design and Manufacturing 2 1 3 
+MF F318 Non Traditional Manufacturing Processes 3 0 3 
+MF F319 Supply Chain Management 3 0 3
+MF F320 Engineering Optimization 3 0 3 
+BITS F415 Introduction To MEMS 3 1 4
+ECON F411 Project Appraisal 3 0 3
+ME F340 Introduction to Sports Engg. 3 0 3
+ME F416 Reverse Engineering and Rapid Prototyping 3 0 3
+ME F417 Advanced Metal Forming 3 0 3
+ME F419 Total Product Integration Engineering 3 0 3
+ME F424 Energy Management 3 0 3
+ME F425 Additive Manufacturing 3 0 3
+ME F426 Industry 4.0 in Manufacturing 3 0 3
+ME F432 Computer Aided Manufacturing 2 1 3
+ME F443 Quality Control Assurance and Reliability 3 0 3
+ME F484 Automotive Technology 3 0 3
+MF F411 Fluid Power Systems 3 1 4
+MF F412 Automotive Systems 3 0 3
+MF F413 Mechanical Vibrations and Acoustics 3 0 3
+MF F414 Manufacturing Excellence 3 0 3
+MF F418 Lean Manufacturing 3 0 3
+MF F442 Advances in Materials Science 3 0 3
+MF F453 Industrial Relations 3 0 3
+MF F463 Maintenance and Safety 3 0 3
+MF F471 Instrumentation and Control 3 0 3
+MF F472 Precision Engineering 3 0 3
+MF F473 Product Design and Development 3 0 3
+MF F474 Product Design and Development Projects 0 0 3
+ME F211 Mechanics of Solids 3 0 3
+ME F212 Fluid Mechanics 3 0 3
+ME F216 Materials Science and Engineering 2 1 3
+ME F217 Applied Thermodynamics 3 1 4
+ME F218 Advanced Mechanics of Solids 2 0 2
+ME F219 Manufacturing Processes 3 1 4
+ME F220 Heat Transfer 3 1 4
+ME F221 Mechanisms and Machines 3 0 3
+ME F314 Design of Machine Elements 3 0 3
+ME F315 Advanced Manufacturing Processes 2 1 3
+ME F316 Manufacturing Management 2 0 2
+ME F317 Engines, Motors, and Mobility 2 0 2
+ME F318 Computer-Aided Design 1 2 3
+ME F319 Vibrations and Control 3 0 3
+ME F320 Engineering Optimization 3 0 3
+ME F341 Prime Movers & Fluid Machines 2 1 3
+BITS F327 Artificial Intelligence for Robotics 2 1 3
+BITS F415 Introduction to MEMS 3 1 4
+DE G513 Tribology 3 2 5
+DE G514 Fracture Mechanics 3 2 5
+DE G531 Product Design 3 2 5
+ECE F242 Control Systems 3 0 3
+ECON F411 Project Appraisal 3 0 3
+EEE F242 Control Systems 3 0 3
+INSTR F242 Control Systems 3 0 3
+MATH F313 Numerical Analysis 3 0 3
+ME F340 Introduction to Sports Engineering 3 0 3
+ME F411 Fluid Power Systems 3 1 4
+ME F413 Nonlinear Vibrations 3 0 3
+ME F414 Fuel Cell Science and Technology 0 0 3*
+ME F415 Gas Dynamics 3 0 3
+ME F416 Reverse Engineering and Rapid Prototyping 3 0 3
+ME F417 Advanced Metal Forming 3 0 3
+ME F418 Rocket and Spacecraft Propulsion 3 0 3
+ME F419 Total Product Integration Engg. 3 0 3
+ME F420 Power Plant Engineering 3 0 3
+ME F423 Microfluidics and Applications 0 0 4
+ME F424 Energy Management 3 0 3
+ME F425 Additive Manufacturing 3 0 3
+ME F426 Industry 4.0 in Manufacturing 3 0 3
+ME F432 Computer Aided manufacturing 2 1 3
+ME F433 Solar Thermal Process Engineering 3 1 4
+ME F441 Automotive Vehicles 3 0 3
+ME F443 Quality Control, Assurance and Reliability 3 0 3
+ME F451 Mechanical Equipment Design 3 0 3
+ME F452 Composite Materials & Design 3 0 3
+ME F461 Refrigeration and Air conditioning 3 0 3
+ME F472 Precision Engineering 3 0 3
+ME F482 Combustion 3 0 3
+ME F483 Wind Energy 3 0 3
+ME F484 Automotive Technology 3 0 3
+ME F485 Numerical Techniques for Fluid Flow and Heat Transfer 3 0 3
+ME G511 Mechanism and Robotics 3 2 5
+ME G512 Finite Element Methods 3 2 5
+ME G514 Turbomachinery 3 2 5
+ME G515 Computational Fluid Dynamics 3 2 5
+ME G533 Conduction and Radiation Heat Transfer 3 2 5
+ME G534 Convective Heat and Mass Transfer 3 2 5
+MF F311 Mechatronics and Automation 2 1 3
+MF F418 Lean Manufacturing 3 0 3
+MF F421 Supply chain management 0 0 4
+MF F485 Sustainable Manufacturing 3 0 3
+MST G522 Advanced Composites 3 2 5
+BITS F219 Process Engineering 2 1 3
+PHA F211 Pharmaceutical Analysis 2 1 3
+PHA F212 Dispensing Pharmacy 2 1 3
+PHA F213 Microbiology 2 1 3
+PHA F214 Anatomy, Physiology & Hygiene 2 1 3
+PHA F215 Introduction to Molecular Biology and Immunology 3 0 3
+PHA F241 Pharmaceutical Chemistry 2 1 3
+MF F485 Sustainable Manufacturing 3 0 3 
+PHA  F242 Biological Chemistry 2 1 3
+PHA F243 Industrial Pharmacy 2 1 3
+PHA F244 Physical Pharmacy 2 1 3
+PHA F311 Pharmacology I 2 1 3
+PHA F312 Medicinal Chemistry I 2 1 3
+PHA F313 Instrumental Methods of Analysis 2 1 4
+PHA F314 Pharmaceutical Formulations and Biopharmaceutics 2 1 3
+PHA F341 Pharmacology II 2 1 3
+PHA F342 Medicinal Chemistry II 2 1 3
+PHA F343 Forensic Pharmacy 2 0 2
+PHA F344 Natural Drugs 2 1 3
+MATH F212 Optimization 3 0 3
+PHA F413 Pharmaceutical Management and Quality Control 3 0 3
+PHA F414 Biopharmaceutics 3 0 3
+PHA F415 Pathophysiology 3 0 3
+PHA F416 Chemistry of Synthetic Drugs 3 0 3
+PHA F417 Pharmacoeconomics 3 0 3
+PHA F422 Cosmetic Science 2 1 3
+PHA F432 Hospital Pharmacy 3 0 3
+PHA F441 Biochemical Engineering 3 0 3
+PHA F442 Applied Pharmaceutical Chemistry 3 0 3
+PHA F461 Phytochemistry 2 1 3
+BIO F211 Biological Chemistry 3 0 3
+BIO F212 Microbiology 3 1 4
+BIO F213 Cell Biology 3 0 3
+BIO F214 Integrated Biology 3 0 3
+BIO F215 Biophysics 3 0 3
+BIO F241 Ecology & Environmental Science 3 0 3
+BIO F242 Introduction to Bioinformatics 3 0 3
+BIO F243 Genetics 3 0 3
+BIO F244 Instrumental Methods of Analysis 1 3 4
+BIO F311 Recombinant DNA Technology 3 0 3
+BIO F312 Plant Physiology 3 0 3
+BIO F313 Animal Physiology 3 0 3
+BIO F341 Developmental Biology 3 0 3
+BIO F342 Immunology 3 0 3
+BIO F216 Water, Sanitation and Solid Waste Management 3 0 3
+BIO F217 Laboratory for Water, Sanitation and Solid waste Management 1 2 3
+BIO F231 Biology Project Laboratory 0 0 3
+BIO F314 Conservation Biology 2 1 3
+BIO F315 Applied Nutrition and Nutraceuticals 2 0 2
+BIO F352 Cell and Tissue Culture Technology 3 1 4
+BIO F411 Laboratory 0 3 3
+BIO F413 Molecular Biology of Cell 3 0 3
+BIO F417 Biomolecular Modelling 3 0 3
+BIO F418 Genetic Engineering Techniques 1 3 4
+BIO F419 Molecular Evolution 3 0 3
+BIO F421 Enzymology 3 0 3
+BIO F431 Reproductive Physiology 3 0 3
+BIO F441 Biochemical Engineering 3 0 3
+BIO F451 Bioprocess Technology 3 0 3
+BIO G512 Molecular Mechanism of Gene Expression 3 2 5
+BIO G513 Microbial and Fermentation Technology 3 2 5
+BIO G515 Stem Cell and Regenerative Biology 3 1 4
+BIO G522 Interferon Technology 3 1 4
+BIO G523 Advanced and Applied Microbiology 3 2 5
+BIO G524 Animal Cell Technology 3 2 5
+BIO G525 Environmental Biotechnology & Waste Mgnt 3 2 5
+BIO G526 Cancer Biology 3 2 5
+BIO G544 Bioremediation and biometallurgy 5 0 5
+BIO G545 Molecular Parasitology and Vector Biology 0 0 5
+BIO G561 Advances in Recombinant DNA Technology 3 2 5
+BIO G570 Recent Developments in Biology 1 0 1
+BIO G612 Human Genetics 3 2 5
+BIO G631 Membrane and Liposome Technology 3 1 4
+BIO G632 Transgenic Technology 3 2 5
+BIO G642 Experimental Techniques 0 4 4
+BIO G643 Plant Biotechnology 3 2 5
+BIO G651 Protein and Enzyme Bioengineering 3 2 5
+BIO G661 Gene Toxicology 3 1 4
+BIO G671 Bioconversion Technology 3 2 5
+BIOT F345 Proteomics 3 0 3
+BIOT F346 Genomics 3 0 3
+BIOT F347 Immunotechnology 3 0 3
+BIOT F416 Introduction to Pharmaceutical Biotechnology 3 0 3
+BIOT F422 Nanobiotechnology 3 0 3
+BIOT F424 Food Biotechnology 3 0 3
+BITS F418 Introduction to Biomedical Engineering 3 1 4
+BITS F467 Bioethics and Biosafety 3 0 3
+CHEM F212 Organic Chemistry I 3 0 3
+CHEM F213 Physical Chemistry II 3 0 3
+MATH F212 Optimization 3 0 3
+CHEM F211 Physical Chemistry I 3 0 3
+CHEM F212 Organic Chemistry I 3 0 3
+CHEM F213 Physical Chemistry II 3 0 3
+CHEM F214 Inorganic Chemistry I 3 0 3
+CHEM F241 Inorganic Chemistry II 3 0 3
+CHEM F242 Chemical Experimentation I 0 3 3
+CHEM F243 Organic Chemistry II 3 0 3
+CHEM F244 Physical Chemistry III 3 0 3
+CHEM F311 Organic Chemistry III 3 0 3
+CHEM F312 Physical Chemistry IV 3 0 3
+CHEM F313 Instrumental Methods of Analysis 3 1 4
+CHEM F341 Chemical Experimentation II 0 4 4
+CHEM F342 Organic Chemistry IV 3 0 3
+CHEM F343 Inorganic Chemistry III 3 0 3
+PHY F212 Electromagnetic Theory I 3 0 3
+CHEM F223 Colloid and Surface Chemistry 3 0 3
+CHEM F320 Introductory Computational Chemistry Laboratory 0 4 2
+CHEM F323 Biophysical Chemistry 3 0 3
+CHEM F324 Numerical Methods in Chemistry 3 3 4
+CHEM F325 Polymer Chemistry 3 0 3
+CHEM F326 Solid State Chemistry 3 0 3
+CHEM F327 Electrochemistry: Fundamentals and Applications 3 0 3
+CHEM F328 Supramolecular Chemistry 3 0 3
+CHEM F329 Analytical Chemistry 3 1 4
+CHEM F330 Photophysical Chemistry 3 1 4
+CHEM F333 Chemistry of Materials 3 0 3
+CHEM F334 Magnetic Resonance 3 0 3
+CHEM F335 Organic Chemistry and Drug Design 3 0 3
+CHEM F336 Nanochemistry 3 1 4
+CHEM F337 Green Chemistry and Catalysis 3 0 3
+CHEM F412 Photochemistry and Laser Spectroscopy 3 0 3
+CHEM F413 Electron Correlation In Atoms And Molecules 3 1 4
+CHEM F414 Bio and Chemical Sensors 3 0 3
+CHEM F415 Frontiers in Organic Synthesis 3 0 3
+CHEM F422 Statistical Thermodynamics 3 0 3
+CHEM F430 Atmospheric Chemistry 3 0 3
+CHEM F431 Sustainable Chemistry using Renewables 3 0 3
+CHEM G521 Environmental Chemistry 0 0 5
+ECON F211 Principles of Economics 3 0 3
+ECON F212 Fundamentals of Finance and Accounts 3 0 3
+ECON F213 Mathematical and Statistical Methods 3 0 3
+ECON F214 Economic Environment of Business 3 0 3
+ECON F241 Econometric Methods 3 0 3
+ECON F242 Microeconomics 3 0 3
+ECON F243 Macroeconomics 3 0 3
+ECON F244 Economics of Growth and Development 3 0 3
+ECON F311 International Economics 3 0 3
+ECON F312 Money, Banking and Financial Markets 3 0 3
+ECON F313 Issues in Economic Development 3 0 3
+ECON F341 Public Finance Theory and Policy 3 0 3
+ECON F342 Applied Econometrics 3 0 3
+ECON F343 Economic Analysis of Public Policy 3 0 3
+BITS F314 Game Theory and It’s Applications 3 0 3
+ECON F315 Financial Management 3 0 3
+ECON F314 Industrial Economics 3 0 3
+ECON F345 Behavioral Economics 3 0 3
+ECON F351 Indian Economic Development 3 0 3
+ECON F352 Management of Banks and Financial Institutions 3 0 3
+ECON F353 Energy Economics and Policy 3 0 3
+ECON F354 Derivatives and Risk Management 3 0 3
+ECON F355 Business Analysis and Valuation 3 0 3
+ECON F356 Strategic Financial Management 3 0 3
+ECON F357 Management Control System 3 0 3
+ECON F411 Project Appraisal 3 0 3
+ECON F412 Security Analysis and Portfolio Management 3 0 3
+ECON F413 Financial Engineering 3 0 3
+ECON F414 Creating and Leading Entrepreneurial Organizations 3 0 3
+ECON F415 New Venture Creation 3 0 3
+ECON F417 Risk Management and Insurance 3 0 3
+ECON F418 Quantitative Analysis of International Trade 3 0 3
+ECON F422 Functions and Working of Stock Exchanges 3 0 3
+ECON F434 International Business 3 0 3
+ECON F435 Marketing Research 3 0 3
+ECON F471 Resources and Environmental Economics 3 0 3
+FIN F314 Investment Banking and Financial Services 3 0 3
+FIN F414 Financial Risk Analytics and Management 3 0 3
+MATH F212 Optimization 3 0 3
+MATH F242 Operations Research 3 0 3
+MATH F212 Optimization 3 0 3
+MATH F213 Discrete Mathematics 3 0 3
+MATH F214 Elementary Real Analysis 3 0 3
+MATH F215 Algebra-I 3 0 3
+MATH F241 Mathematical Methods 3 0 3
+MATH F242 Operations Research 3 0 3
+MATH F243 Graphs and Networks 3 0 3
+MATH F244 Measure & Integration 3 0 3
+MATH F311 Introduction to Topology 3 0 3
+MATH F312 Ordinary Differential Equations 3 0 3
+MATH F313 Numerical Analysis 3 0 3
+MATH F341 Introduction to Functional Analysis 3 0 3
+MATH F342 Differential Geometry 3 0 3
+MATH F343 Partial Differential Equations 3 0 3
+BITS F314 Game Theory and Its Applications 3 0 3
+BITS F343 Fuzzy Logic and Applications 3 0 3
+BITS F463 Cryptography 3 0 3
+CS F211 Data Structures and Algorithms 3 1 4
+CS F364 Design and Analysis of Algorithms 3 0 3
+MATH F231 Number Theory 3 0 3
+MATH F314 Algebra-II 3 0 3
+MATH F353 Statistical Inference and Applications 3 0 3
+MATH F354 Complex Analysis 3 0 3
+MATH F378 Advanced Probability Theory 3 0 3
+MATH F420 Mathematical Modeling 3 0 4
+MATH F421 Combinatorial Mathematics 3 0 3
+MATH F422 Numerical Methodology for Partial Differential Equations 3 1 4
+MATH F423 Introduction to Algebraic Topology 3 0 3
+MATH F424 Applied Stochastic Process 3 1 4
+MATH F431 Distribution Theory 3 0 3
+MATH F432 Applied Statistical Methods 3 0 3
+MATH F441 Discrete Mathematical Structures 3 0 3
+MATH F444 Numerical Solutions of Ordinary Differential Equations 3 0 3
+MATH F445 Mathematical Fluid Dynamics 3 0 3
+MATH F456 Cosmology 3 0 3
+MATH F471 Nonlinear Optimization 3 0 3
+MATH F481 Commutative Algebra 3 0 3
+MATH F492 Wavelet analysis and applications 3 1 4
+PHY F211 Classical Mechanics 3 1 4
+PHY F212 Electromagnetic Theory I 3 0 3
+PHY F213 Optics 3 0 3
+PHY F214 Electricity, Magnetism & Optics Laboratory 0 2 2
+PHY F241 Electromagnetic Theory II 3 1 4
+PHY F242 Quantum Mechanics I 3 0 3
+PHY F243 Mathematical Methods of Physics 3 0 3
+PHY F244 Modern Physics Laboratory 0 2 2
+PHY F311 Quantum Mechanics II 3 0 3
+PHY F312 Statistical Mechanics 3 0 3
+PHY F313 Computational Physics 3 0 3
+PHY F341 Solid State Physics 3 0 3
+PHY F342 Atomic & Molecular Physics 3 0 3
+PHY F343 Nuclear & Particle Physics 3 0 3
+PHY F344 Advanced Physics Laboratory 0 3 3
+BIO F215 Biophysics 3 0 3
+BITS F316 Nonlinear Dynamics and Chaos 3 0 3
+BITS F317 Theoretical Neuroscience 3 0 3
+BITS F386 Quantum Information and Computation 3 0 3
+BITS F416 Introduction to Nanoscience 3 0 3
+BITS F417 Microfluidics & its Applications 0 0 4
+BITS F446 Pattern Recognition 3EEE F426 Fibre Optics & Optoelectronics 3 0 3
+MATH F424 Applied Stochastic Processess 3 1 4
+MATH F456 Cosmology 3 0 3
+PHY F215 Introduction to Astronomy & Astrophysics 3 0 3
+PHY F315 Theory of Relativity 3 0 3
+PHY F316 Musical Acoustics 3 0 3
+PHY F317 Introduction to Radio Astronomy 3 0 3
+PHY F378 Plasma Physics and its Applications 3 0 3
+PHY F379 Thin Film Technology 3 0 3
+PHY F412 Introduction To Quantum Field Theory 3 1 4
+PHY F413 Particle Physics 3 1 4
+PHY F414 Physics of Advanced Materials 3 1 4
+PHY F415 General Theory of Relativity and Cosmology 3 1 4
+PHY F416 Soft Condensed Matter Physics 3 1 4
+PHY F417 Experimental Methods of Physics 3 1 4
+PHY F418 Lasers and Applications 3 1 4
+PHY F419 Advanced Solid State Physics 3 1 4
+PHY F420 Quantum Optics 3 1 4
+PHY F421 Advanced Quantum Mechanics 3 1 4
+PHY F422 Group Theory and Applications 3 1 4
+PHY F423 Special Topics in Statistical Mechanics 3 1 4
+PHY F424 Advanced Electrodynamics 3 1 4
+PHY F425 Advanced Mathematical Methods of Physics 3 1 4
+PHY F426 Physics of Semiconductor Devices 3 1 4
+PHY F427 Atmospheric Physics 3 0 3
+PHY F428 Quantum Information Theory 3 0 3
+PHY F431 Geometrical Methods in Physics 3 0 3
+PHY F432 Classical Theory of Fields: A Symmetry Perspective 0 0 4
+PHY G512 Advanced Quantum Field Theory 3 0 3
+GS F221 Business Communication 3 0 3
+GS F222 Language Lab Practice 0 3 3
+GS F223 Introduction to Mass Communication 3 0 3
+GS F224 Print and Audio Visual Advertising 2 1 3
+GS F241 Creative Writing 2 1 3
+GS F243 Current Affairs 3 0 3
+GS F244 Reporting and Writing for Media 3 0 3
+GS F245 Effective Public Speaking 2 1 3
+GS F321 Mass Media Content and Design 2 1 3
+GS F322 Critical Analysis of Literature and Cinema 3 0 3
+GS F342 Computer Mediated Communication 3 0 3
+GS F343 Short Film and Video Production 2 1 3
+BITS F385 Introduction to Gender Studies 3 0 3
+GS F211 Modern Political Concepts 3 0 3
+GS F212 Environment, Development & Climate Change 3 0 3
+GS F231 Dynamics of Social Change 3 0 3
+GS F232 Introductory Psychology 3 0 3
+GS F242 Cultural Studies 3 0 3
+GS F311 Introduction to Conflict Management 3 0 3
+GS F325 Journalism 3 0 3
+GS F326 Creative Thinking 2 1 3
+GS F327 Selected Reading 3 0 3
+GS F333 Public Administration 3 0 3
+GS F334 Global Business Technology & Knowledge Sharing 3 0 3
+GS F344 Copywriting 2 0 2
+HSS F227 Cross Cultural Skills 3 0 3
+HSS F232 Introduction to Development Studies 3 0 3
+HSS F315 Society, Business, and Politics 3 0 3
+HSS F317 Introduction to Globalization 3 0 3
+HSS F319 Lighting for Theatre and Films 0 0 2
+HSS F323 Organizational Psychology 3 0 3
+HSS F328 Human Resource Development 3 0 3
+HSS F341 Performance Design 1 2 3
+HSS F343 Professional Ethics 3 0 3
+HSS F346 International Relations 3 0 3
+ECON F211 Principles of Economics 3 0 3
+GS F211 Modern Political Concepts 3 0 3
+GS F212 Environment, Development & Climate Change 3 0 3
+GS F213 Development Theories 3 0 3
+GS F231 Dynamics of Social Change 3 0 3
+GS F232 Introductory Psychology 3 0 3
+GS F233 Public Policy 3 0 3
+GS F234 Development Economics 3 0 3
+GS F311 Introduction to Conflict Management 3 0 3
+GS F312 Applied Philosophy 3 0 3
+GS F331 Techniques in Social Research 3 0 3
+GS F332 Contemporary India 3 0 3
+GS F333 Public Administration 3 0 3
+GS F334 Global Business Technology & Knowledge Sharing 3 0 3
+BITS F214 Science, Technology and Modernity 3 0 3
+BITS F385 Introduction to Gender Studies 3 0 3
+BITS F399 Humanistic Theories of Science and Technology 3 0 3
+GS F212 Environment, Development and Climate Change 3 0 3
+GS F213 Development Theories 3 0 3
+HSS F233 Main Trends in Indian History 3 0 3
+HSS F234 Main Currents of Modern History 3 0 3
+HSS F235 Introductory Philosophy 3 0 3
+HSS F236 Symbolic Logic 3 0 3
+HSS F312 Bureaucracy 3 0 3
+HSS F315 Society, Business, and Politics 3 0 3
+HSS F343 Professional Ethics 3 0 3
+HSS F344 Heritage of India 3 0 3
+HSS F345 Gandhian Thoughts 3 0 3
+HSS F346 International Relations 3 0 3
+XXX F266 Study Project 0 0 3
+XXX F366 Laboratory Project 0 0 3
+XXX F367 Laboratory Project 0 0 3
+XXX F376 Design Project 0 0 3
+XXX F377 Design Project 0 0 3
+XXX F491 Special Project 0 0 3
+BITS F214 Science, Technology and Modernity 3 0 3
+BITS F226 Soft Skills for Professionals 3 0 3
+BITS F385 Introduction to Gender Studies 3 0 3
+BITS F399 Humanistic Theories of Science and Technology 3 0 3
+BITS F419 Management of Cross Cultural Engineering Teams 3 0 3
+GS F211 Modern Political Concepts 3 0 3
+GS F212 Environment, Development & Climate Change 3 0 3
+GS F213 Development Theories 3 0 3
+GS F221 Business Communication 3 0 3
+GS F223 Introduction to Mass Communication 3 0 3
+GS F224 Print and Audio-Visual Advertisement 2 1 3
+GS F231 Dynamics of Social Change 3 0 3
+GS F232 Introductory Psychology 3 0 3
+GS F233 Public Policy 3 0 3
+GS F234 Development Economics 3 0 3
+GS F241 Creative Writing 0 0 3*
+GS F242 Cultural Studies 3 0 3
+GS F243 Current Affairs 3 0 3
+GS F244 Reporting and Writing for Media 2 1 3
+GS F245 Effective Public Speaking 2 1 3
+GS F311 Introduction to Conflict Management 3 0 3
+GS F312 Applied Philosophy 3 0 3
+GS F313 Marxian Thoughts 3 0 3
+GS F321 Mass Media Content and Design 2 1 3
+GS F322 Critical Analysis of Literature and Cinema 3 0 3
+GS F325 Journalism 3 0 3
+GS F326 Creative Thinking 2 1 3
+GS F327 Selected Reading 3 0 3
+GS F331 Techniques in Social Research 3 0 3
+GS F332 Contemporary India 3 0 3
+GS F333 Public Administration 3 0 3
+GS F343 Short Film and Video Production 2 1 3
+GS F344 Copywriting 2 0 2
+HSS F221 Readings from Drama 3 0 3
+HSS F222 Linguistics 3 0 3
+HSS F223 Appreciation of Indian Music 3 0 3
+HSS F226 Postmodernism 3 0 3
+HSS F227 Cross Cultural Skills 3 0 3
+HSS F228 Phonetics & Spoken English 3 0 3
+HSS F229 Introduction to Western Music 3 0 3
+HSS F232 Introduction to Development Studies 3 0 3
+HSS F233 Main Trends in Indian History 3 0 3
+HSS F234 Main Currents of Modern History 3 0 3
+HSS F235 Introductory Philosophy 3 0 3
+HSS F236 Symbolic Logic 3 0 3
+HSS F237 Contemporary Indian English Fiction 3 0 3
+HSS F238 Sports and Society 3 0 3
+HSS F244 Crime and New Media 3 0 3
+HSS F245 Gender, Science and Technology 3 0 3
+HSS F246 Philosophy of Nāgārjuna 3 0 3
+HSS F247 Social Informatics 3 0 3
+HSS F248 Introduction to Disability Studies 3 0 3
+HSS F249 Politics in India 3 0 3
+HSS F266 Study Project 0 0 3
+HSS F311 Introduction to Videogame Studies 3 0 3
+HSS F313 Introduction to Contemporary Arts 3 0 3
+HSS F315 Society, Business, and Politics 3 0 3
+HSS F316 Popular Literature and Culture of South Asia 3 0 3
+HSS F317 Introduction to Globalization 3 0 3
+HSS F318 Introduction to Anthropology 3 0 3
+HSS F319 Lighting for Theatre and Films 0 0 2
+HSS F323 Organizational Psychology 3 0 3
+HSS F325 Cinematic Adaptation 3 0 3
+HSS F326 Humanities and Design 2 1 3
+HSS F327 Contemporary Drama 3 0 3
+HSS F328 Human Resource Development 3 0 3
+HSS F329 Musicology – An – Introduction 3 0 3
+HSS F330 Appreciation of Art 3 0 3
+HSS F331 Sankara’s Thoughts 3 0 3
+HSS F332 Cinematic Art 0 0 3
+HSS F333 Comparative Religion 3 0 3
+HSS F334 Srimad Bhagavad Gita 3 0 3
+HSS F335 Literary Criticism 3 0 3
+HSS F336 Modern Fiction 3 0 3
+HSS F337 English Literary Forms and Movements 3 0 3
+HSS F338 Comparative Indian Literature 3 0 3
+HSS F339 Theatre Art Acting and Production 3 0 3
+HSS F340 Post Colonial Literatures 3 0 3
+HSS F341 Performance Design 1 2 3
+HSS F342 Advanced Communicative English 3 0 3
+HSS F343 Professional Ethics 3 0 3
+HSS F344 Heritage of India 3 0 3
+HSS F345 Gandhian Thoughts 3 0 3
+HSS F346 International Relations 3 0 3
+HSS F347 Introduction to Carnatic Music 3 0 3
+HSS F348 Introduction to Hindustani Music 3 0 3
+HSS F349 Ecocriticism 3 0 3
+HSS F350 Human Rights: History, Theory & Practice 3 0 3
+HSS F351 Social and Political Ecology 3 0 3
+HSS F352 Technology, Work and Society 3 0 3
+HSS F353 Philosophy of Aesthetics 3 0 3
+HSS F354 Introduction to Islamic Economy 3 0 3
+HSS F355 Dictatorship, Democracy & 3 0 3
+HSS F356 Social Movements and Protest Politics 3 0 3
+HSS F364 Political Economy of Gulf Cooperation Council States 3 0 3
+HSS F365 Science of Sustainable Happiness 3 0 3
+HSS F368 Asian Cinemas and Cultures 3 0 3
+HSS F369 Caste and Gender in India 3 0 3
+HSS F371 Cities-Life, Issues and Conflicts 3 0 3
+HSS F372 Introduction to Social Psychology 3 0 3
+HSS F373 Shakespeare and Popular Culture 3 0 3
+HSS F374 Urban Modernity and the Renewal of Paris 3 0 3
+HSS F399 Introduction to American Literature 3 0 3
+SANS F111 Sanskrit 3 0 3
+BIO F231 Biology Project Laboratory 0 0 3
+BITS C483 Indian Wisdom for Modern Management 3 0 3
+BITS F211 Introduction to IPR 0 0 1
+BITS F212 Introduction to Human Rights 0 0 1
+BITS F213 Introduction to Environmental studies 0 0 1
+BITS F215 Applications of Bio-Medical Instrumentation Techniques in Healthcare 2 0 2
+BITS F217 Environment, Development and Climate Change 3 0 3
+BITS F225* Environmental Studies 3 0 3
+BITS F311 Image Processing 3 0 3
+BITS F319 Negotiation Skills and Techniques 2 0 2
+BITS F320 Managerial Skills 0 0 2
+BITS F321 Legal and Economic Environment of Business 0 0 4
+BITS F333 Project on Organisational Aspects 0 0 3
+BITS F334 Project on Organisational Aspects 0 0 3
+BITS F372 Data Communications and Networks 3 0 3
+BITS F381 TIC Projects 0 0 3
+BITS F382 Reading Course 0 0 3
+BITS F383 TIC Projects 0 0 3
+BITS F398 Creative Multimedia 2 2 3
+BITS F414 Introduction to Bioinformatics 3 0 3
+BITS F416 Introduction to Nanoscience 3 0 3
+BITS F417 Micro Fluidics and its Application 0 0 4
+BITS F428 Essentials of Strategic Management 3 0 3
+BITS F431 Flexible Manufacturing Systems 3 2 3
+BITS F441 Robotics 0 0 3
+BITS F442 Remote Sensing and Image Processing 0 0 3
+BITS F444 Artificial Intelligence 0 0 3
+BITS F445 Neural Networks and Applications 3 0 3
+BITS F446 Pattern Recognition 0 0 3
+BITS F447 Multimedia Computing 3 0 3
+BITS F448 Retail Management Systems 3 0 3
+BITS F449 Financial Engineering 3 0 3
+BITS F461 Software Engineering 0 0 3
+BITS F462 Renewable Energy 3 0 3
+BITS F468 New Venture Creation 3 0 3
+BITS F469 Financing Infrastructure Projects 3 0 3
+BITS F488 Services Management Systems 3 0 3
+BITS F490 Project Management 0 0 4
+BITS F493 Business Analysis and Valuation 3 0 3
+BITS F494 Environmental Impact Assessment 3 1 4
+BITS G516 Introduction to Business Sustainability 3 0 3
+BITS G517 Cross Cultural Management 3 0 3
+MGTS F351 Organisational Behaviour 3 0 3
+MGTS F433 Advertising and Sales Promotion 3 0 3
+PHY F221 Modern Physics 3 0 3
+PHY F345 Quantum Mechanics for Engineers 3 0 3
+BIO F110 Biology laboratory 0 2 1
+BIO F111 General Biology 3 0 3
+CHEM F110 Chemistry Laboratory 0 2 1
+CHEM F110 Chemistry Laboratory 0 2 1
+PHY F110 Physics Laboratory 0 2 1
+PHY F111 Mechanics, Oscillations and Waves 3 0 3
+PHY F112 General Physics 3 0 3
+MATH F111 Mathematics I 3 0 3
+MATH F112 Mathematics II 3 0 3
+MATH F113 Probability & Statistics 3 0 3
+MATH F211 Mathematics III 3 0 3
+BITS F218 General Mathematics III 3 0 3
+BITS F111 Thermodynamics 3 0 3
+BITS F112 Technical Report Writing 2 0 2
+BITS F113 General Mathematics I 3 0 3
+BITS F114 General Mathematics II 3 0 3
+BITS F221 Practice School I 0 0 5
+BITS F231 Practice School I 0 0 5
+BITS F241 Practice School I 0 0 5
+BITS F412 Practice School II 0 0 20
+BITS F413 Practice School II 0 0 20
+BITS F421T Thesis 0 0 16
+BITS F422T Thesis 0 0 16 
+BITS F423T Thesis 0 0 9
+BITS F424T Thesis 0 0 9
+BITS F110 Engineering Graphics 1 2 2
+ME F112 Workshop Practice 0 4 2
+CS F111 Computer Programming 3 2 4
+EEE F111 Electrical Sciences 3 0 3
+MGTS F211 Principles of Management 3 0 3
