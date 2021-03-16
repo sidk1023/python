@@ -1,759 +1,759 @@
 ,Course Number,Course Title,L,P,U
-0,BIO F110,Biology laboratory,0,2,1
-1,BIO F111,General Biology,3,0,3
-2,BIO F211,Biological Chemistry,3,0,3
-3,BIO F212,Microbiology,3,1,4
-4,BIO F213,Cell Biology,3,0,3
-5,BIO F214,Integrated Biology,3,0,3
-6,BIO F215,Biophysics,3,0,3
-7,BIO F216,"Water, Sanitation and Solid Waste Management",3,0,3
-8,BIO F217,"Laboratory for Water, Sanitation and Solid waste Management",1,2,3
-9,BIO F231,Biology Project Laboratory,0,0,3
-10,BIO F241,Ecology & Environmental Science,3,0,3
-11,BIO F242,Introduction to Bioinformatics,3,0,3
-12,BIO F243,Genetics,3,0,3
-13,BIO F244,Instrumental Methods of Analysis,1,3,4
-14,BIO F311,Recombinant DNA Technology,3,0,3
-15,BIO F312,Plant Physiology,3,0,3
-16,BIO F313,Animal Physiology,3,0,3
-17,BIO F314,Conservation Biology,2,1,3
-18,BIO F315,Applied Nutrition and Nutraceuticals,2,0,2
-19,BIO F341,Developmental Biology,3,0,3
-20,BIO F342,Immunology,3,0,3
-21,BIO F352,Cell and Tissue Culture Technology,3,1,4
-22,BIO F411,Laboratory,0,3,3
-23,BIO F413,Molecular Biology of Cell,3,0,3
-24,BIO F417,Biomolecular Modelling,3,0,3
-25,BIO F418,Genetic Engineering Techniques,1,3,4
-26,BIO F419,Molecular Evolution,3,0,3
-27,BIO F421,Enzymology,3,0,3
-28,BIO F431,Reproductive Physiology,3,0,3
-29,BIO F441,Biochemical Engineering,3,0,3
-30,BIO F451,Bioprocess Technology,3,0,3
-31,BIO G512,Molecular Mechanism of Gene Expression,3,2,5
-32,BIO G513,Microbial and Fermentation Technology,3,2,5
-33,BIO G515,Stem Cell and Regenerative Biology,3,1,4
-34,BIO G522,Interferon Technology,3,1,4
-35,BIO G523,Advanced and Applied Microbiology,3,2,5
-36,BIO G524,Animal Cell Technology,3,2,5
-37,BIO G525,Environmental Biotechnology & Waste Mgnt,3,2,5
-38,BIO G526,Cancer Biology,3,2,5
-39,BIO G544,Bioremediation and biometallurgy,5,0,5
-40,BIO G545,Molecular Parasitology and Vector Biology,0,0,5
-41,BIO G561,Advances in Recombinant DNA Technology,3,2,5
-42,BIO G570,Recent Developments in Biology,1,0,1
-43,BIO G612,Human Genetics,3,2,5
-44,BIO G631,Membrane and Liposome Technology,3,1,4
-45,BIO G632,Transgenic Technology,3,2,5
-46,BIO G642,Experimental Techniques,0,4,4
-47,BIO G643,Plant Biotechnology,3,2,5
-48,BIO G651,Protein and Enzyme Bioengineering,3,2,5
-49,BIO G661,Gene Toxicology,3,1,4
-50,BIO G671,Bioconversion Technology,3,2,5
-51,BIOT F211,Biological Chemistry,3,0,3
-52,BIOT F212,Microbiology,3,1,4
-53,BIOT F213,Cell biology,3,0,3
-54,BIOT F215,Biophysics,3,0,3
-55,BIOT F241,Genetic Engineering Techniques,1,3,4
-56,BIOT F242,Introduction to Bioinformatics,3,0,3
-57,BIOT F243,Genetics,3,0,3
-58,BIOT F244,Instrumental Methods of Analysis,1,3,4
-59,BIOT F245,Intro to Environmental Biotechnology,3,0,3
-60,BIOT F311,Recombinant DNA Technology,3,0,3
-61,BIOT F314,Industrial Microbiology and Bioprocess Engineering,2,2,4
-62,BIOT F342,Immunology,3,0,3
-63,BIOT F343,Experiments in Biotechnology,0,3,3
-64,BIOT F344,Downstream Processing,2,1,3
-65,BIOT F345,Proteomics,3,0,3
-66,BIOT F346,Genomics,3,0,3
-67,BIOT F347,Immunotechnology,3,0,3
-68,BIOT F352,Cell and Tissue Culture Technology,3,0,3
-69,BIOT F413,Molecular Biology of the Cell,3,0,3
-70,BIOT F416,Introduction to Pharmaceutical Biotechnology,3,0,3
-71,BIOT F417,Biomolecular Modeling,3,0,3
-72,BIOT F420,Introduction to Plant Biotechnology,3,0,3
-73,BIOT F422,Nanobiotechnology,3,0,3
-74,BIOT F423,Drug design and delivery,3,0,3
-75,BIOT F424,Food Biotechnology,3,0,3
-76,BITS C483,Indian Wisdom for Modern Management,3,0,3
-77,BITS F110,Engineering Graphics,1,2,2
-78,BITS F111,Thermodynamics,3,0,3
-79,BITS F112,Technical Report Writing,2,0,2
-80,BITS F113,General Mathematics I,3,0,3
-81,BITS F114,General Mathematics II,3,0,3
-82,BITS F211,Introduction to IPR,0,0,1
-83,BITS F212,Introduction to Human Rights,0,0,1
-84,BITS F213,Introduction to Environmental studies,0,0,1
-85,BITS F214,"Science, Technology and Modernity",3,0,3
-86,BITS F215,Applications of Bio-Medical Instrumentation Techniques in Healthcare,2,0,2
-87,BITS F217,"Environment, Development and Climate Change",3,0,3
-88,BITS F218,General Mathematics III,3,0,3
-89,BITS F219,Process Engineering,2,1,3
-90,BITS F221,Practice School I,0,0,5
-91,BITS F225*,Environmental Studies,3,0,3
-92,BITS F226,Soft Skills for Professionals,3,0,3
-93,BITS F231,Practice School I,0,0,5
-94,BITS F241,Practice School I,0,0,5
-95,BITS F311,Image Processing,3,0,3
-96,BITS F312,Neural Networks and Fuzzy Logic,3,0,3
-97,BITS F313,Multicriterion Decision Making in Engg. and Management,3,0,3
-98,BITS F314,Game Theory and It’s Applications,3,0,3
-99,BITS F316,Nonlinear Dynamics and Chaos,3,0,3
-100,BITS F317,Theoretical Neuroscience,3,0,3
-101,BITS F319,Negotiation Skills and Techniques,2,0,2
-102,BITS F320,Managerial Skills,0,0,2
-103,BITS F321,Legal and Economic Environment of Business,0,0,4
-104,BITS F327,Artificial Intelligence for Robotics,2,1,3
-105,BITS F333,Project on Organisational Aspects,0,0,3
-106,BITS F334,Project on Organisational Aspects,0,0,3
-107,BITS F343,Fuzzy Logic and Applications,3,0,3
-108,BITS F364,Human – Computer Interaction,3,0,3
-109,BITS F372,Data Communications and Networks,3,0,3
-110,BITS F381,TIC Projects,0,0,3
-111,BITS F382,Reading Course,0,0,3
-112,BITS F383,TIC Projects,0,0,3
-113,BITS F385,Introduction to Gender Studies,3,0,3
-114,BITS F386,Quantum Information and Computation,3,0,3
-115,BITS F398,Creative Multimedia,2,2,3
-116,BITS F399,Humanistic Theories of Science and Technology,3,0,3
-117,BITS F412,Practice School II,0,0,20
-118,BITS F413,Practice School II,0,0,20
-119,BITS F414,Introduction to Bioinformatics,3,0,3
-120,BITS F415,Introduction to MEMS,3,1,4
-121,BITS F416,Introduction to Nanoscience,3,0,3
-122,BITS F417,Microfluidics and its application,0,0,4
-123,BITS F418,Introduction to Biomedical Engineering,3,1,4
-124,BITS F419,Management of Cross Cultural Engineering Teams,3,0,3
-125,BITS F421T,Thesis,0,0,16
-126,BITS F422T,Thesis,0,0,16
-127,BITS F423T,Thesis,0,0,9
-128,BITS F424T,Thesis,0,0,9
-129,BITS F428,Essentials of Strategic Management,3,0,3
-130,BITS F429,Nanotechnology for Renewable Energy and Environment,3,1,4
-131,BITS F431,Flexible Manufacturing Systems,3,2,3
-132,BITS F441,Robotics,0,0,3
-133,BITS F442,Remote Sensing and Image Processing,0,0,3
-134,BITS F444,Artificial Intelligence,0,0,3
-135,BITS F445,Neural Networks and Applications,3,0,3
-136,BITS F446,Pattern Recognition 3EEE F426 Fibre Optics & Optoelectronics,3,0,3
-137,BITS F447,Multimedia Computing,3,0,3
-138,BITS F448,Retail Management Systems,3,0,3
-139,BITS F449,Financial Engineering,3,0,3
-140,BITS F461,Software Engineering,0,0,3
-141,BITS F462,Renewable Energy,3,0,3
-142,BITS F463,Cryptography,3,0,3
-143,BITS F464,Machine Learning,3,0,3
-144,BITS F465,Enterprise Computing,3,1,4
-145,BITS F466,Service Oriented Computing,3,1,4
-146,BITS F467,Bioethics and Biosafety,3,0,3
-147,BITS F468,New Venture Creation,3,0,3
-148,BITS F469,Financing Infrastructure Projects,3,0,3
-149,BITS F488,Services Management Systems,3,0,3
-150,BITS F490,Project Management,0,0,4
-151,BITS F493,Business Analysis and Valuation,3,0,3
-152,BITS F494,Environmental Impact Assessment,3,1,4
-153,BITS G516,Introduction to Business Sustainability,3,0,3
-154,BITS G517,Cross Cultural Management,3,0,3
-155,CE F211,Mechanics of Solids,3,0,3
-156,CE F213,Surveying,3,1,4
-157,CE F230,Civil Engineering Materials,0,0,4
-158,CE F231,Fluid Mechanics,0,0,3
-159,CE F241,Analysis of Structures,3,0,3
-160,CE F242,Construction Planning and Technology,3,0,3
-161,CE F243,Soil Mechanics,3,1,4
-162,CE F244,Highway Engineering,3,1,4
-163,CE F312,Hydraulics Engineering,3,1,4
-164,CE F313,Foundation Engineering,3,0,3
-165,CE F320,Design of Reinforced Concrete Structures,0,0,3
-166,CE F321,Engineering Hydrology,0,0,3
-167,CE F323,Introduction to Environmental Engineering,3,0,3
-168,CE F324,Numerical Analysis,3,0,3
-169,CE F325,Fundamentals of Rock Mechanics,3,0,3
-170,CE F342,Water & Waste Water Treatment,3,1,4
-171,CE F343,Design of Steel Structures,3,0,3
-172,CE F345,Computational Geomechanics,3,0,3
-173,CE F411,Operation Research for Engineers,3,0,3
-174,CE F412,Disaster Management,3,0,3
-175,CE F413,Advanced Structural Design,3,0,3
-176,CE F415,Design of Prestressed Concrete Structure,3,0,3
-177,CE F416,Computer Applications in Civil Engineering,3,1,4
-178,CE F417,Applications of Artificial Intelligence in Civil Engg.,3,0,3
-179,CE F419,Geotechnical Earthquake Engg. and Machine Foundation,3,0,3
-180,CE F420,Introduction to Bridge Engineering,3,0,3
-181,CE F421,Analysis and Design of FRP Reinforced Concrete Structures,3,0,3
-182,CE F422,Urban Hydrology,2,1,3
-183,CE F423,Green Buildings and Energy Conservation,3,0,3
-184,CE F425,"Airport, Railways and Waterways",3,0,3
-185,CE F426,Geosynthetics and Reinforced Soil Structure,3,0,3
-186,CE F427,System Modeling and Analysis,3,0,3
-187,CE F428,Earthquake Resistant Design and Construction,3,0,3
-188,CE F429,Design of Foundation Systems,3,0,3
-189,CE F430,Design of Advanced Concrete Structures,3,0,3
-190,CE F431,Principles of Geographical Information Systems,3,1,4
-191,CE F432,Structural Dynamics,3,0,3
-192,CE F433,Remote Sensing and Image Processing,3,1,4
-193,CE F434,Environmental Impact Assessment,3,0,3
-194,CE F435,Introduction to Finite Element Methods,3,0,3
-195,CHE F211,Chemical Process Calculations,3,0,3
-196,CHE F212,Fluid Mechanics,3,0,3
-197,CHE F213,Chemical Engineering Thermodynamics,3,0,3
-198,CHE F214,Engineering Chemistry,3,0,3
-199,CHE F241,Heat Transfer,3,0,3
-200,CHE F242,Numerical Methods for Chemical Engineers,3,0,3
-201,CHE F243,Material Science and Engg.,3,0,3
-202,CHE F244,Separation Processes I,3,0,3
-203,CHE F311,Kinetics and Reactor Design,3,0,3
-204,CHE F312,Chemical Engineering Lab I,0,3,3
-205,CHE F313,Separation Processes II,3,0,3
-206,CHE F314,Process Design Principles I,3,0,3
-207,CHE F341,Chemical Engineering Lab II,0,3,3
-208,CHE F342,Process Dynamics and Control,3,0,3
-209,CHE F343,Process Design Principles II,3,0,3
-210,CHE F411,Environmental Pollution Control,3,0,3
-211,CHE F412,Process Equipment Design,3,0,3
-212,CHE F413,Process Plant Safety,3,0,3
-213,CHE F414,Transport Phenomena,3,0,3
-214,CHE F415,Molecular and Statistical Thermodynamics,3,0,3
-215,CHE F416,Process Plant Design Project I,0,0,3
-216,CHE F417,Process Plant Design Project II,0,0,3
-217,CHE F418,Modelling and Simulation in Chemical Engineering,3,0,3
-218,CHE F419,Chemical Process Technology,3,0,3
-219,CHE F421,Bio-chemical Engineering,3,0,3
-220,CHE F422,Petroleum Refining Technology,3,0,3
-221,CHE F423,Membrane Science and Engineering,3,0,3
-222,CHE F424,Rheology of Complex Fluids,3,0,3
-223,CHE F433,Corrosion Engineering,3,0,3
-224,CHE F471,Advanced Process Control,3,0,3
-225,CHE F497,Atomic and Molecular Simulations,0,0,3
-226,CHE F498,Colloids and Interface Engineering,0,0,3
-227,CHE G511,Fluidization Engineering,3,1,4
-228,CHE G512,Petroleum Refining and Petrochemicals,3,1,4
-229,CHE G513,Environmental Management Systems,3,2,5
-230,CHE G522,Polymer Technology,3,1,4
-231,CHE G523,Mathematical Methods in Chemical Engineering,0,0,5
-232,CHE G524,Introduction to Multiphase flow,3,1,4
-233,CHE G526,Nuclear Engineering,3,1,4
-234,CHE G527,Energy Conservation and Management,3,1,4
-235,CHE G528,Introduction to Nanoscience & Technology,3,1,4
-236,CHE G529,Pulp & Paper Technology,3,1,4
-237,CHE G532,Alternate Energy Resources,3,1,4
-238,CHE G533,Petroleum Product Characterization,3,2,5
-239,CHE G551,Advanced Separation Technology,3,2,5
-240,CHE G552,Advanced Transport Phenomena,0,0,5
-241,CHE G554,Computational Fluid Dynamics,0,0,4
-242,CHE G556,Electrochemical Engineering,3,1,4
-243,CHE G557,Energy Systems Engineering,0,0,4
-244,CHE G558,Chemical Process Optimization,0,0,4
-245,CHE G568,Modeling and Simulation in Petroleum Refining,0,0,4
-246,CHE G613,Advanced Mass Transfer,3,2,5
-247,CHE G614,Advanced Heat Transfer,3,2,5
-248,CHE G616,Petroleum Reservoir Engineering,0,0,5
-249,CHE G617,Petroleum Refinery Engg.,3,2,5
-250,CHE G618,Petroleum Downstream Processing,3,2,5
-251,CHE G619,Process Intensification,3,2,5
-252,CHE G620,Energy Integration Analysis,3,1,4
-253,CHE G622,Advanced Chemical Engineering Thermodynamics,0,0,5
-254,CHE G641,Reaction Engineering,0,0,5
-255,CHEM F110,Chemistry Laboratory,0,2,1
-256,CHEM F211,Physical Chemistry I,3,0,3
-257,CHEM F212,Organic Chemistry I,3,0,3
-258,CHEM F213,Physical Chemistry II,3,0,3
-259,CHEM F214,Inorganic Chemistry I,3,0,3
-260,CHEM F223,Colloid and Surface Chemistry,3,0,3
-261,CHEM F241,Inorganic Chemistry II,3,0,3
-262,CHEM F242,Chemical Experimentation I,0,3,3
-263,CHEM F243,Organic Chemistry II,3,0,3
-264,CHEM F244,Physical Chemistry III,3,0,3
-265,CHEM F311,Organic Chemistry III,3,0,3
-266,CHEM F312,Physical Chemistry IV,3,0,3
-267,CHEM F313,Instrumental Methods of Analysis,3,1,4
-268,CHEM F320,Introductory Computational Chemistry Laboratory,0,4,2
-269,CHEM F323,Biophysical Chemistry,3,0,3
-270,CHEM F324,Numerical Methods in Chemistry,3,3,4
-271,CHEM F325,Polymer Chemistry,3,0,3
-272,CHEM F326,Solid State Chemistry,3,0,3
-273,CHEM F327,Electrochemistry: Fundamentals and Applications,3,0,3
-274,CHEM F328,Supramolecular Chemistry,3,0,3
-275,CHEM F329,Analytical Chemistry,3,1,4
-276,CHEM F330,Photophysical Chemistry,3,1,4
-277,CHEM F333,Chemistry of Materials,3,0,3
-278,CHEM F334,Magnetic Resonance,3,0,3
-279,CHEM F335,Organic Chemistry and Drug Design,3,0,3
-280,CHEM F336,Nanochemistry,3,1,4
-281,CHEM F337,Green Chemistry and Catalysis,3,0,3
-282,CHEM F341,Chemical Experimentation II,0,4,4
-283,CHEM F342,Organic Chemistry IV,3,0,3
-284,CHEM F343,Inorganic Chemistry III,3,0,3
-285,CHEM F412,Photochemistry and Laser Spectroscopy,3,0,3
-286,CHEM F413,Electron Correlation In Atoms And Molecules,3,1,4
-287,CHEM F414,Bio and Chemical Sensors,3,0,3
-288,CHEM F415,Frontiers in Organic Synthesis,3,0,3
-289,CHEM F422,Statistical Thermodynamics,3,0,3
-290,CHEM F430,Atmospheric Chemistry,3,0,3
-291,CHEM F431,Sustainable Chemistry using Renewables,3,0,3
-292,CHEM G521,Environmental Chemistry,0,0,5
-293,CS F111,Computer Programming,3,2,4
-294,CS F211,Data Structures & Algorithms,3,1,4
-295,CS F212,Database Systems,3,1,4
-296,CS F213,Object Oriented Programming,3,1,4
-297,CS F214,Logic in Computer Science,3,0,3
-298,CS F215,Digital Design,3,1,4
-299,CS F222,Discrete Structures for Computer Science,3,0,3
-300,CS F241,Microprocessors & Interfacing,3,1,4
-301,CS F301,Principles of Programming Languages,2,0,2
-302,CS F303,Computer Networks,3,1,4
-303,CS F314,Software Development for Portable Devices,2,1,3
-304,CS F320,Foundations of Data Science,3,0,3
-305,CS F342,Computer Architecture,3,1,4
-306,CS F351,Theory of Computation,3,0,3
-307,CS F363,Compiler Construction,2,1,3
-308,CS F364,Design & Analysis of Algorithms,3,0,3
-309,CS F372,Operating Systems,3,0,3
-310,CS F401,Multimedia Computing,3,0,3
-311,CS F402,Computational Geometry,3,0,3
-312,CS F407,Artificial Intelligence,3,0,3
-313,CS F413,Internetworking Technologies,3,0,3
-314,CS F415,Data Mining,3,0,3
-315,CS F422,Parallel Computing,3,0,3
-316,CS F424,Software for Embedded Systems,3,1,4
-317,CS F441,Selected Topics from Computer Science,0,0,3
-318,CS F444,Real Time Systems,3,0,3
-319,CS F446,Data Storage Technologies and Networks,3,0,3
-320,CS F451,Combinatorial Mathematics,3,0,3
-321,CS F468,Information Security Project,0,3,3
-322,CS F469,Information Retrieval,3,0,3
-323,CS G513,Network Security,3,1,4
-324,CS G527,Cloud Computing,0,0,5
-325,CS G553,Reconfigurable Computing,0,0,5
-326,DE G513,Tribology,3,2,5
-327,DE G514,Fracture Mechanics,3,2,5
-328,DE G531,Product Design,3,2,5
-329,ECE F211,Electrical Machines,3,1,4
-330,ECE F212,Electromagnetic Theory,3,0,3
-331,ECE F214,Electronic Devices,3,0,3
-332,ECE F215,Digital Design,3,1,4
-333,ECE F241,Microprocessors and interfacing,3,1,4
-334,ECE F242,Control Systems,3,0,3
-335,ECE F243,Signals & Systems,3,0,3
-336,ECE F244,Microelectronic Circuits,3,0,3
-337,ECE F311,Communication Systems,3,1,4
-338,ECE F312,EM Fields and Microwave Engineering Laboratory,0,1,1
-339,ECE F314,Electromagnetic Fields & Microwave Engineering,3,0,3
-340,ECE F341,Analog Electronics,3,1,4
-341,ECE F343,Communication Networks,3,0,3
-342,ECE F344,Information Theory & Coding,3,0,3
-343,ECE F414,Telecommunication Switching Systems & Networks,3,0,3
-344,ECE F416,Digital Communication,3,0,3
-345,ECE F418,Modern Communication Technologies,3,0,3
-346,ECE F431,Mobile Telecommunication Networks,3,0,3
-347,ECE F434,Digital Signal Processing,3,1,4
-348,ECE F472,Satellite Communication,3,0,3
-349,ECON F211,Principles of Economics,3,0,3
-350,ECON F212,Fundamentals of Finance and Accounts,3,0,3
-351,ECON F213,Mathematical and Statistical Methods,3,0,3
-352,ECON F214,Economic Environment of Business,3,0,3
-353,ECON F241,Econometric Methods,3,0,3
-354,ECON F242,Microeconomics,3,0,3
-355,ECON F243,Macroeconomics,3,0,3
-356,ECON F244,Economics of Growth and Development,3,0,3
-357,ECON F311,International Economics,3,0,3
-358,ECON F312,"Money, Banking and Financial Markets",3,0,3
-359,ECON F313,Issues in Economic Development,3,0,3
-360,ECON F314,Industrial Economics,3,0,3
-361,ECON F315,Financial Management,3,0,3
-362,ECON F341,Public Finance Theory and Policy,3,0,3
-363,ECON F342,Applied Econometrics,3,0,3
-364,ECON F343,Economic Analysis of Public Policy,3,0,3
-365,ECON F345,Behavioral Economics,3,0,3
-366,ECON F351,Indian Economic Development,3,0,3
-367,ECON F352,Management of Banks and Financial Institutions,3,0,3
-368,ECON F353,Energy Economics and Policy,3,0,3
-369,ECON F354,Derivatives and Risk Management,3,0,3
-370,ECON F355,Business Analysis and Valuation,3,0,3
-371,ECON F356,Strategic Financial Management,3,0,3
-372,ECON F357,Management Control System,3,0,3
-373,ECON F411,Project Appraisal,3,0,3
-374,ECON F412,Security Analysis and Portfolio Management,3,0,3
-375,ECON F413,Financial Engineering,3,0,3
-376,ECON F414,Creating and Leading Entrepreneurial Organizations,3,0,3
-377,ECON F415,New Venture Creation,3,0,3
-378,ECON F417,Risk Management and Insurance,3,0,3
-379,ECON F418,Quantitative Analysis of International Trade,3,0,3
-380,ECON F422,Functions and Working of Stock Exchanges,3,0,3
-381,ECON F434,International Business,3,0,3
-382,ECON F435,Marketing Research,3,0,3
-383,ECON F471,Resources and Environmental Economics,3,0,3
-384,EEE F111,Electrical Sciences,3,0,3
-385,EEE F211,Electrical Machines,3,1,4
-386,EEE F212,Electromagnetic Theory,3,0,3
-387,EEE F214,Electronic Devices,3,0,3
-388,EEE F215,Digital Design,3,1,4
-389,EEE F241,Microprocessors and interfacing,3,1,4
-390,EEE F242,Control Systems,3,0,3
-391,EEE F243,Signals & Systems,3,0,3
-392,EEE F244,Microelectronic Circuits,3,0,3
-393,EEE F245,Control System Laboratory,0,1,1
-394,EEE F246,Electrical and Electronic Circuits Laboratory,0,2,2
-395,EEE F311,Communication Systems,3,1,4
-396,EEE F312,Power Systems,3,0,3
-397,EEE F313,Analog & Digital VLSI Design,3,0,3
-398,EEE F341,Analog Electronics,3,1,4
-399,EEE F342,Power Electronics,3,1,4
-400,EEE F345,Power Apparatus & Networks,3,0,3
-401,EEE F346,Data Communication Networks,2,0,2
-402,EEE F348,FPGA Based System Design Laboratory,0,2,2
-403,EEE F411,Internet of Things,3,1,4
-404,EEE F414,Telecommunication Switching Systems & Networks,3,0,3
-405,EEE F416,Digital Communication,3,0,3
-406,EEE F417,Computer Based Control System,3,0,3
-407,EEE F418,Modern Communication Technologies,3,0,3
-408,EEE F422,Modern Control Systems,3,0,3
-409,EEE F425,Power System Analysis and control,3,0,3
-410,EEE F426,Fiber Optics & Optoelectronics,3,0,3
-411,EEE F427,Electric Power Utilization and Illumination,3,0,3
-412,EEE F431,Mobile Telecommunication Networks,3,0,3
-413,EEE F432,Medical Instrumentation,3,0,3
-414,EEE F433,Electromagnetic Fields & Waves,3,0,3
-415,EEE F434,Digital Signal Processing,3,1,4
-416,EEE F435,Digital Image Processing,3,0,3
-417,EEE F436,Electromagnetic Compatibility,3,1,4
-418,EEE F462,Advanced Power Systems,3,0,3
-419,EEE F472,Satellite Communication,3,0,3
-420,EEE F473,Wind Electrical Systems,3,0,3
-421,EEE F474,Antenna Theory and Design,3,1,4
-422,EEE F475,Special Electrical Machines,3,1,4
-423,EEE F476,Switchgear and Protection,3,1,4
-424,EEE F477,Modelling of Field-Effect NanoDevices,3,0,3
-425,EEE F478,Power Systems Laboratory,0,2,2
-426,EEE G512,Embedded System Design,3,1,4
-427,EEE G626,Hardware Software Co-Design,0,0,4
-428,FIN F314,Investment Banking and Financial Services,3,0,3
-429,FIN F414,Financial Risk Analytics and Management,3,0,3
-430,GS F211,Modern Political Concepts,3,0,3
-431,GS F212,"Environment, Development & Climate Change",3,0,3
-432,GS F213,Development Theories,3,0,3
-433,GS F221,Business Communication,3,0,3
-434,GS F222,Language Lab Practice,0,3,3
-435,GS F223,Introduction to Mass Communication,3,0,3
-436,GS F224,Print and Audio Visual Advertising,2,1,3
-437,GS F231,Dynamics of Social Change,3,0,3
-438,GS F232,Introductory Psychology,3,0,3
-439,GS F233,Public Policy,3,0,3
-440,GS F234,Development Economics,3,0,3
-441,GS F241,Creative Writing,2,1,3
-442,GS F242,Cultural Studies,3,0,3
-443,GS F243,Current Affairs,3,0,3
-444,GS F244,Reporting and Writing for Media,3,0,3
-445,GS F245,Effective Public Speaking,2,1,3
-446,GS F311,Introduction to Conflict Management,3,0,3
-447,GS F312,Applied Philosophy,3,0,3
-448,GS F313,Marxian Thoughts,3,0,3
-449,GS F321,Mass Media Content and Design,2,1,3
-450,GS F322,Critical Analysis of Literature and Cinema,3,0,3
-451,GS F325,Journalism,3,0,3
-452,GS F326,Creative Thinking,2,1,3
-453,GS F327,Selected Reading,3,0,3
-454,GS F331,Techniques in Social Research,3,0,3
-455,GS F332,Contemporary India,3,0,3
-456,GS F333,Public Administration,3,0,3
-457,GS F334,Global Business Technology & Knowledge Sharing,3,0,3
-458,GS F342,Computer Mediated Communication,3,0,3
-459,GS F343,Short Film and Video Production,2,1,3
-460,GS F344,Copywriting,2,0,2
-461,HSS F221,Readings from Drama,3,0,3
-462,HSS F222,Linguistics,3,0,3
-463,HSS F223,Appreciation of Indian Music,3,0,3
-464,HSS F226,Postmodernism,3,0,3
-465,HSS F227,Cross Cultural Skills,3,0,3
-466,HSS F228,Phonetics & Spoken English,3,0,3
-467,HSS F229,Introduction to Western Music,3,0,3
-468,HSS F232,Introduction to Development Studies,3,0,3
-469,HSS F233,Main Trends in Indian History,3,0,3
-470,HSS F234,Main Currents of Modern History,3,0,3
-471,HSS F235,Introductory Philosophy,3,0,3
-472,HSS F236,Symbolic Logic,3,0,3
-473,HSS F237,Contemporary Indian English Fiction,3,0,3
-474,HSS F238,Sports and Society,3,0,3
-475,HSS F244,Crime and New Media,3,0,3
-476,HSS F245,"Gender, Science and Technology",3,0,3
-477,HSS F246,Philosophy of Nāgārjuna,3,0,3
-478,HSS F247,Social Informatics,3,0,3
-479,HSS F248,Introduction to Disability Studies,3,0,3
-480,HSS F249,Politics in India,3,0,3
-481,HSS F266,Study Project,0,0,3
-482,HSS F311,Introduction to Videogame Studies,3,0,3
-483,HSS F312,Bureaucracy,3,0,3
-484,HSS F313,Introduction to Contemporary Arts,3,0,3
-485,HSS F315,"Society, Business, and Politics",3,0,3
-486,HSS F316,Popular Literature and Culture of South Asia,3,0,3
-487,HSS F317,Introduction to Globalization,3,0,3
-488,HSS F318,Introduction to Anthropology,3,0,3
-489,HSS F319,Lighting for Theatre and Films,0,0,2
-490,HSS F323,Organizational Psychology,3,0,3
-491,HSS F325,Cinematic Adaptation,3,0,3
-492,HSS F326,Humanities and Design,2,1,3
-493,HSS F327,Contemporary Drama,3,0,3
-494,HSS F328,Human Resource Development,3,0,3
-495,HSS F329,Musicology – An – Introduction,3,0,3
-496,HSS F330,Appreciation of Art,3,0,3
-497,HSS F331,Sankara’s Thoughts,3,0,3
-498,HSS F332,Cinematic Art,0,0,3
-499,HSS F333,Comparative Religion,3,0,3
-500,HSS F334,Srimad Bhagavad Gita,3,0,3
-501,HSS F335,Literary Criticism,3,0,3
-502,HSS F336,Modern Fiction,3,0,3
-503,HSS F337,English Literary Forms and Movements,3,0,3
-504,HSS F338,Comparative Indian Literature,3,0,3
-505,HSS F339,Theatre Art Acting and Production,3,0,3
-506,HSS F340,Post Colonial Literatures,3,0,3
-507,HSS F341,Performance Design,1,2,3
-508,HSS F342,Advanced Communicative English,3,0,3
-509,HSS F343,Professional Ethics,3,0,3
-510,HSS F344,Heritage of India,3,0,3
-511,HSS F345,Gandhian Thoughts,3,0,3
-512,HSS F346,International Relations,3,0,3
-513,HSS F347,Introduction to Carnatic Music,3,0,3
-514,HSS F348,Introduction to Hindustani Music,3,0,3
-515,HSS F349,Ecocriticism,3,0,3
-516,HSS F350,"Human Rights: History, Theory & Practice",3,0,3
-517,HSS F351,Social and Political Ecology,3,0,3
-518,HSS F352,"Technology, Work and Society",3,0,3
-519,HSS F353,Philosophy of Aesthetics,3,0,3
-520,HSS F354,Introduction to Islamic Economy,3,0,3
-521,HSS F355,"Dictatorship, Democracy &",3,0,3
-522,HSS F356,Social Movements and Protest Politics,3,0,3
-523,HSS F364,Political Economy of Gulf Cooperation Council States,3,0,3
-524,HSS F365,Science of Sustainable Happiness,3,0,3
-525,HSS F368,Asian Cinemas and Cultures,3,0,3
-526,HSS F369,Caste and Gender in India,3,0,3
-527,HSS F371,"Cities-Life, Issues and Conflicts",3,0,3
-528,HSS F372,Introduction to Social Psychology,3,0,3
-529,HSS F373,Shakespeare and Popular Culture,3,0,3
-530,HSS F374,Urban Modernity and the Renewal of Paris,3,0,3
-531,HSS F399,Introduction to American Literature,3,0,3
-532,INSTR F211,Electrical Machines,3,1,4
-533,INSTR F212,Electromagnetic Theory,3,0,3
-534,INSTR F214,Electronic Devices,3,0,3
-535,INSTR F215,Digital Design,3,1,4
-536,INSTR F241,Microprocessors and interfacing,3,1,4
-537,INSTR F242,Control Systems,3,0,3
-538,INSTR F243,Signals & Systems,3,0,3
-539,INSTR F244,Microelectronic Circuits,3,0,3
-540,INSTR F311,Electronic Instrumentation & Instrumentation Technology,3,1,4
-541,INSTR F312,Transducers and Measurement Systems,3,0,3
-542,INSTR F313,Analog & Digital VLSI Design,3,0,3
-543,INSTR F341,Analog Electronics,3,1,4
-544,INSTR F342,Power Electronics,3,1,4
-545,INSTR F343,Industrial Instrumentation & Control,3,0,3
-546,INSTR F412,Analysis Instrumentation,3,0,3
-547,INSTR F413,Advanced Process Control,3,0,3
-548,INSTR F414,Telecommunication Switching Systems & Networks,3,0,3
-549,INSTR F415,Digital Control,3,0,3
-550,INSTR F419,Virtual Instrumentation,3,1,4
-551,INSTR F420,Design of Instrumentation Systems,3,0,3
-552,INSTR F422,Instrumentation for Petrochemical Industry,3,0,3
-553,INSTR F432,Medical Instrumentation,3,0,3
-554,INSTR F473,Wind Electrical Systems,3,0,3
-555,IS F311,Computer Graphics,3,0,3
-556,IS F341,Software Engineering,3,1,4
-557,IS F462,Network Programming,3,0,3
-558,MATH F111,Mathematics I,3,0,3
-559,MATH F112,Mathematics II,3,0,3
-560,MATH F113,Probability & Statistics,3,0,3
-561,MATH F211,Mathematics III,3,0,3
-562,MATH F212,Optimization,3,0,3
-563,MATH F213,Discrete Mathematics,3,0,3
-564,MATH F214,Elementary Real Analysis,3,0,3
-565,MATH F215,Algebra-I,3,0,3
-566,MATH F231,Number Theory,3,0,3
-567,MATH F241,Mathematical Methods,3,0,3
-568,MATH F242,Operations Research,3,0,3
-569,MATH F243,Graphs and Networks,3,0,3
-570,MATH F244,Measure & Integration,3,0,3
-571,MATH F311,Introduction to Topology,3,0,3
-572,MATH F312,Ordinary Differential Equations,3,0,3
-573,MATH F313,Numerical Analysis,3,0,3
-574,MATH F314,Algebra-II,3,0,3
-575,MATH F341,Introduction to Functional Analysis,3,0,3
-576,MATH F342,Differential Geometry,3,0,3
-577,MATH F343,Partial Differential Equations,3,0,3
-578,MATH F353,Statistical Inference and Applications,3,0,3
-579,MATH F354,Complex Analysis,3,0,3
-580,MATH F378,Advanced Probability Theory,3,0,3
-581,MATH F420,Mathematical Modeling,3,0,4
-582,MATH F421,Combinatorial Mathematics,3,0,3
-583,MATH F422,Numerical Methodology for Partial Differential Equations,3,1,4
-584,MATH F423,Introduction to Algebraic Topology,3,0,3
-585,MATH F424,Applied Stochastic Process,3,1,4
-586,MATH F431,Distribution Theory,3,0,3
-587,MATH F432,Applied Statistical Methods,3,0,3
-588,MATH F441,Discrete Mathematical Structures,3,0,3
-589,MATH F444,Numerical Solutions of Ordinary Differential Equations,3,0,3
-590,MATH F445,Mathematical Fluid Dynamics,3,0,3
-591,MATH F456,Cosmology,3,0,3
-592,MATH F471,Nonlinear Optimization,3,0,3
-593,MATH F481,Commutative Algebra,3,0,3
-594,MATH F492,Wavelet analysis and applications,3,1,4
-595,ME F112,Workshop Practice,0,4,2
-596,ME F211,Mechanics of Solids,3,0,3
-597,ME F212,Fluid Mechanics,3,0,3
-598,ME F216,Materials Science and Engineering,2,1,3
-599,ME F217,Applied Thermodynamics,3,1,4
-600,ME F218,Advanced Mechanics of Solids,2,0,2
-601,ME F219,Manufacturing Processes,3,1,4
-602,ME F220,Heat Transfer,3,1,4
-603,ME F221,Mechanisms and Machines,3,0,3
-604,ME F314,Design of Machine Elements,3,0,3
-605,ME F315,Advanced Manufacturing Processes,2,1,3
-606,ME F316,Manufacturing Management,2,0,2
-607,ME F317,"Engines, Motors, and Mobility",2,0,2
-608,ME F318,Computer-Aided Design,1,2,3
-609,ME F319,Vibrations and Control,3,0,3
-610,ME F320,Engineering Optimization,3,0,3
-611,ME F340,Introduction to Sports Engg.,3,0,3
-612,ME F341,Prime Movers & Fluid Machines,2,1,3
-613,ME F411,Fluid Power Systems,3,1,4
-614,ME F413,Nonlinear Vibrations,3,0,3
-615,ME F414,Fuel Cell Science and Technology,0,0,3*
-616,ME F415,Gas Dynamics,3,0,3
-617,ME F416,Reverse Engineering and Rapid Prototyping,3,0,3
-618,ME F417,Advanced Metal Forming,3,0,3
-619,ME F418,Rocket and Spacecraft Propulsion,3,0,3
-620,ME F419,Total Product Integration Engineering,3,0,3
-621,ME F420,Power Plant Engineering,3,0,3
-622,ME F423,Microfluidics and Applications,0,0,4
-623,ME F424,Energy Management,3,0,3
-624,ME F425,Additive Manufacturing,3,0,3
-625,ME F426,Industry 4.0 in Manufacturing,3,0,3
-626,ME F432,Computer Aided Manufacturing,2,1,3
-627,ME F433,Solar Thermal Process Engineering,3,1,4
-628,ME F441,Automotive Vehicles,3,0,3
-629,ME F443,Quality Control Assurance and Reliability,3,0,3
-630,ME F451,Mechanical Equipment Design,3,0,3
-631,ME F452,Composite Materials & Design,3,0,3
-632,ME F461,Refrigeration and Air conditioning,3,0,3
-633,ME F472,Precision Engineering,3,0,3
-634,ME F482,Combustion,3,0,3
-635,ME F483,Wind Energy,3,0,3
-636,ME F484,Automotive Technology,3,0,3
-637,ME F485,Numerical Techniques for Fluid Flow and Heat Transfer,3,0,3
-638,ME G511,Mechanism and Robotics,3,2,5
-639,ME G512,Finite Element Methods,3,2,5
-640,ME G514,Turbomachinery,3,2,5
-641,ME G515,Computational Fluid Dynamics,3,2,5
-642,ME G533,Conduction and Radiation Heat Transfer,3,2,5
-643,ME G534,Convective Heat and Mass Transfer,3,2,5
-644,MF F211,Mechanics of Solids,3,0,3
-645,MF F216,Materials Science and Engineering,2,1,3
-646,MF F217,Machine Drawing,0,2,2
-647,MF F218,Transport Phenomena in Manufacturing,3,1,4
-648,MF F219,Operations Management,3,0,3
-649,MF F220,Metrology and Quality Assurance,2,1,3
-650,MF F221,Mechanisms and Machines,3,0,3
-651,MF F222,"Casting, Forming and Welding",3,1,4
-652,MF F311,Mechatronics and Automation,2,1,3
-653,MF F314,Design of Machine Elements,3,0,3
-654,MF F315,Automation and Control,3,1,4
-655,MF F316,Machining and Machine Tools,3,1,4
-656,MF F317,Computer Aided Design and Manufacturing,2,1,3
-657,MF F318,Non Traditional Manufacturing Processes,3,0,3
-658,MF F319,Supply Chain Management,3,0,3
-659,MF F320,Engineering Optimization,3,0,3
-660,MF F411,Fluid Power Systems,3,1,4
-661,MF F412,Automotive Systems,3,0,3
-662,MF F413,Mechanical Vibrations and Acoustics,3,0,3
-663,MF F414,Manufacturing Excellence,3,0,3
-664,MF F418,Lean Manufacturing,3,0,3
-665,MF F421,Supply chain management,0,0,4
-666,MF F442,Advances in Materials Science,3,0,3
-667,MF F453,Industrial Relations,3,0,3
-668,MF F463,Maintenance and Safety,3,0,3
-669,MF F471,Instrumentation and Control,3,0,3
-670,MF F472,Precision Engineering,3,0,3
-671,MF F473,Product Design and Development,3,0,3
-672,MF F474,Product Design and Development Projects,0,0,3
-673,MF F485,Sustainable Manufacturing,3,0,3
-674,MGTS F211,Principles of Management,3,0,3
-675,MGTS F351,Organisational Behaviour,3,0,3
-676,MGTS F433,Advertising and Sales Promotion,3,0,3
-677,MST G522,Advanced Composites,3,2,5
-678,PHA F211,Pharmaceutical Analysis,2,1,3
-679,PHA F212,Dispensing Pharmacy,2,1,3
-680,PHA F213,Microbiology,2,1,3
-681,PHA F214,"Anatomy, Physiology & Hygiene",2,1,3
-682,PHA F215,Introduction to Molecular Biology and Immunology,3,0,3
-683,PHA F241,Pharmaceutical Chemistry,2,1,3
-684,PHA F242,Biological Chemistry,2,1,3
-685,PHA F243,Industrial Pharmacy,2,1,3
-686,PHA F244,Physical Pharmacy,2,1,3
-687,PHA F311,Pharmacology I,2,1,3
-688,PHA F312,Medicinal Chemistry I,2,1,3
-689,PHA F313,Instrumental Methods of Analysis,2,1,4
-690,PHA F314,Pharmaceutical Formulations and Biopharmaceutics,2,1,3
-691,PHA F341,Pharmacology II,2,1,3
-692,PHA F342,Medicinal Chemistry II,2,1,3
-693,PHA F343,Forensic Pharmacy,2,0,2
-694,PHA F344,Natural Drugs,2,1,3
-695,PHA F413,Pharmaceutical Management and Quality Control,3,0,3
-696,PHA F414,Biopharmaceutics,3,0,3
-697,PHA F415,Pathophysiology,3,0,3
-698,PHA F416,Chemistry of Synthetic Drugs,3,0,3
-699,PHA F417,Pharmacoeconomics,3,0,3
-700,PHA F422,Cosmetic Science,2,1,3
-701,PHA F432,Hospital Pharmacy,3,0,3
-702,PHA F441,Biochemical Engineering,3,0,3
-703,PHA F442,Applied Pharmaceutical Chemistry,3,0,3
-704,PHA F461,Phytochemistry,2,1,3
-705,PHY F110,Physics Laboratory,0,2,1
-706,PHY F111,"Mechanics, Oscillations and Waves",3,0,3
-707,PHY F112,General Physics,3,0,3
-708,PHY F211,Classical Mechanics,3,1,4
-709,PHY F212,Electromagnetic Theory I,3,0,3
-710,PHY F213,Optics,3,0,3
-711,PHY F214,"Electricity, Magnetism & Optics Laboratory",0,2,2
-712,PHY F215,Introduction to Astronomy & Astrophysics,3,0,3
-713,PHY F221,Modern Physics,3,0,3
-714,PHY F241,Electromagnetic Theory II,3,1,4
-715,PHY F242,Quantum Mechanics I,3,0,3
-716,PHY F243,Mathematical Methods of Physics,3,0,3
-717,PHY F244,Modern Physics Laboratory,0,2,2
-718,PHY F311,Quantum Mechanics II,3,0,3
-719,PHY F312,Statistical Mechanics,3,0,3
-720,PHY F313,Computational Physics,3,0,3
-721,PHY F315,Theory of Relativity,3,0,3
-722,PHY F316,Musical Acoustics,3,0,3
-723,PHY F317,Introduction to Radio Astronomy,3,0,3
-724,PHY F341,Solid State Physics,3,0,3
-725,PHY F342,Atomic & Molecular Physics,3,0,3
-726,PHY F343,Nuclear & Particle Physics,3,0,3
-727,PHY F344,Advanced Physics Laboratory,0,3,3
+0,BIOT F211,Biological Chemistry,3,0,3
+1,BIOT F212,Microbiology,3,1,4
+2,BIOT F213,Cell biology,3,0,3
+3,BIOT F215,Biophysics,3,0,3
+4,BIOT F241,Genetic Engineering Techniques,1,3,4
+5,BIOT F243,Genetics,3,0,3
+6,BIOT F244,Instrumental Methods of Analysis,1,3,4
+7,BIOT F245,Intro to Environmental Biotechnology,3,0,3
+8,BIOT F311,Recombinant DNA Technology,3,0,3
+9,BIOT F314,Industrial Microbiology and Bioprocess Engineering,2,2,4
+10,BIOT F342,Immunology,3,0,3
+11,BIOT F343,Experiments in Biotechnology,0,3,3
+12,BIOT F344,Downstream Processing,2,1,3
+13,BIOT F242,Introduction to Bioinformatics,3,0,3
+14,BIOT F345,Proteomics,3,0,3
+15,BIOT F346,Genomics,3,0,3
+16,BIOT F347,Immunotechnology,3,0,3
+17,BIOT F352,Cell and Tissue Culture Technology,3,0,3
+18,BIOT F413,Molecular Biology of the Cell,3,0,3
+19,BIOT F416,Introduction to Pharmaceutical Biotechnology,3,0,3
+20,BIOT F417,Biomolecular Modeling,3,0,3
+21,BIOT F420,Introduction to Plant Biotechnology,3,0,3
+22,BIOT F422,Nanobiotechnology,3,0,3
+23,BIOT F423,Drug design and delivery,3,0,3
+24,BIOT F424,Food Biotechnology,3,0,3
+25,BITS F467,Bioethics and Biosafety,3,0,3
+26,CHE F211,Chemical Process Calculations,3,0,3
+27,CHE F212,Fluid Mechanics,3,0,3
+28,CHE F213,Chemical Engineering Thermodynamics,3,0,3
+29,CHE F214,Engineering Chemistry,3,0,3
+30,CHE F241,Heat Transfer,3,0,3
+31,CHE F242,Numerical Methods for Chemical Engineers,3,0,3
+32,CHE F243,Material Science and Engg.,3,0,3
+33,CHE F244,Separation Processes I,3,0,3
+34,CHE F311,Kinetics and Reactor Design,3,0,3
+35,CHE F312,Chemical Engineering Lab I,0,3,3
+36,CHE F313,Separation Processes II,3,0,3
+37,CHE F314,Process Design Principles I,3,0,3
+38,CHE F341,Chemical Engineering Lab II,0,3,3
+39,CHE F342,Process Dynamics and Control,3,0,3
+40,CHE F343,Process Design Principles II,3,0,3
+41,BIO G671,Bioconversion Technology,3,2,5
+42,BITS F415,Introduction to MEMS,3,1,4
+43,BITS F416,Introduction to Nanoscience,3,0,3
+44,BITS F417,Microfluidics and its application,0,0,4
+45,BITS F418,Introduction to Biomedical Engineering,3,1,4
+46,BITS F429,Nanotechnology for Renewable Energy and Environment,3,1,4
+47,CHE F411,Environmental Pollution Control,3,0,3
+48,CHE F412,Process Equipment Design,3,0,3
+49,CHE F413,Process Plant Safety,3,0,3
+50,CHE F414,Transport Phenomena,3,0,3
+51,CHE F415,Molecular and Statistical Thermodynamics,3,0,3
+52,CHE F416,Process Plant Design Project I,0,0,3
+53,CHE F417,Process Plant Design Project II,0,0,3
+54,CHE F418,Modelling and Simulation in Chemical Engineering,3,0,3
+55,CHE F419,Chemical Process Technology,3,0,3
+56,CHE F421,Bio-chemical Engineering,3,0,3
+57,CHE F422,Petroleum Refining Technology,3,0,3
+58,CHE F423,Membrane Science and Engineering,3,0,3
+59,CHE F424,Rheology of Complex Fluids,3,0,3
+60,CHE F433,Corrosion Engineering,3,0,3
+61,CHE F471,Advanced Process Control,3,0,3
+62,CHE F497,Atomic and Molecular Simulations,0,0,3
+63,CHE F498,Colloids and Interface Engineering,0,0,3
+64,CHE G511,Fluidization Engineering,3,1,4
+65,CHE G512,Petroleum Refining and Petrochemicals,3,1,4
+66,CHE G513,Environmental Management Systems,3,2,5
+67,CHE G522,Polymer Technology,3,1,4
+68,CHE G523,Mathematical Methods in Chemical Engineering,0,0,5
+69,CHE G524,Introduction to Multiphase flow,3,1,4
+70,CHE G526,Nuclear Engineering,3,1,4
+71,CHE G527,Energy Conservation and Management,3,1,4
+72,CHE G528,Introduction to Nanoscience & Technology,3,1,4
+73,CHE G529,Pulp & Paper Technology,3,1,4
+74,CHE G532,Alternate Energy Resources,3,1,4
+75,CHE G533,Petroleum Product Characterization,3,2,5
+76,CHE G551,Advanced Separation Technology,3,2,5
+77,CHE G552,Advanced Transport Phenomena,0,0,5
+78,CHE G554,Computational Fluid Dynamics,0,0,4
+79,CHE G556,Electrochemical Engineering,3,1,4
+80,CHE G557,Energy Systems Engineering,0,0,4
+81,CHE G558,Chemical Process Optimization,0,0,4
+82,CHE G568,Modeling and Simulation in Petroleum Refining,0,0,4
+83,CHE G613,Advanced Mass Transfer,3,2,5
+84,CHE G614,Advanced Heat Transfer,3,2,5
+85,CHE G616,Petroleum Reservoir Engineering,0,0,5
+86,CHE G617,Petroleum Refinery Engg.,3,2,5
+87,CHE G618,Petroleum Downstream Processing,3,2,5
+88,CHE G619,Process Intensification,3,2,5
+89,CHE G620,Energy Integration Analysis,3,1,4
+90,CHE G622,Advanced Chemical Engineering Thermodynamics,0,0,5
+91,CHE G641,Reaction Engineering,0,0,5
+92,CHEM F325,Polymer Chemistry,3,0,3
+93,CE F211,Mechanics of Solids,3,0,3
+94,CE F213,Surveying,3,1,4
+95,CE F230,Civil Engineering Materials,0,0,4
+96,CE F231,Fluid Mechanics,0,0,3
+97,CE F241,Analysis of Structures,3,0,3
+98,CE F242,Construction Planning and Technology,3,0,3
+99,CE F243,Soil Mechanics,3,1,4
+100,CE F244,Highway Engineering,3,1,4
+101,CE F312,Hydraulics Engineering,3,1,4
+102,CE F313,Foundation Engineering,3,0,3
+103,CE F320,Design of Reinforced Concrete Structures,0,0,3
+104,CE F321,Engineering Hydrology,0,0,3
+105,CE F342,Water & Waste Water Treatment,3,1,4
+106,CE F343,Design of Steel Structures,3,0,3
+107,BITS F313,Multicriterion Decision Making in Engg. and Management,3,0,3
+108,CE F323,Introduction to Environmental Engineering,3,0,3
+109,CE F324,Numerical Analysis,3,0,3
+110,CE F325,Fundamentals of Rock Mechanics,3,0,3
+111,CE F345,Computational Geomechanics,3,0,3
+112,CE F411,Operation Research for Engineers,3,0,3
+113,CE F412,Disaster Management,3,0,3
+114,CE F413,Advanced Structural Design,3,0,3
+115,CE F415,Design of Prestressed Concrete Structure,3,0,3
+116,CE F416,Computer Applications in Civil Engineering,3,1,4
+117,CE F417,Applications of Artificial Intelligence in Civil Engg.,3,0,3
+118,CE F419,Geotechnical Earthquake Engg. and Machine Foundation,3,0,3
+119,CE F420,Introduction to Bridge Engineering,3,0,3
+120,CE F421,Analysis and Design of FRP Reinforced Concrete Structures,3,0,3
+121,CE F422,Urban Hydrology,2,1,3
+122,CE F423,Green Buildings and Energy Conservation,3,0,3
+123,CE F425,"Airport, Railways and Waterways",3,0,3
+124,CE F426,Geosynthetics and Reinforced Soil Structure,3,0,3
+125,CE F427,System Modeling and Analysis,3,0,3
+126,CE F428,Earthquake Resistant Design and Construction,3,0,3
+127,CE F429,Design of Foundation Systems,3,0,3
+128,CE F430,Design of Advanced Concrete Structures,3,0,3
+129,CE F431,Principles of Geographical Information Systems,3,1,4
+130,CE F432,Structural Dynamics,3,0,3
+131,CE F433,Remote Sensing and Image Processing,3,1,4
+132,CE F434,Environmental Impact Assessment,3,0,3
+133,CE F435,Introduction to Finite Element Methods,3,0,3
+134,CS F211,Data Structures & Algorithms,3,1,4
+135,CS F212,Database Systems,3,1,4
+136,CS F213,Object Oriented Programming,3,1,4
+137,CS F214,Logic in Computer Science,3,0,3
+138,CS F215,Digital Design,3,1,4
+139,CS F222,Discrete Structures for Computer Science,3,0,3
+140,CS F241,Microprocessors & Interfacing,3,1,4
+141,CS F301,Principles of Programming Languages,2,0,2
+142,CS F303,Computer Networks,3,1,4
+143,CS F342,Computer Architecture,3,1,4
+144,CS F351,Theory of Computation,3,0,3
+145,CS F363,Compiler Construction,2,1,3
+146,CS F364,Design & Analysis of Algorithms,3,0,3
+147,CS F372,Operating Systems,3,0,3
+148,BITS F311,Image Processing,3,0,3
+149,BITS F312,Neural Networks and Fuzzy Logic,3,0,3
+150,BITS F343,Fuzzy Logic and Applications,3,0,3
+151,BITS F364,Human – Computer Interaction,3,0,3
+152,BITS F386,Quantum Information and Computation,3,0,3
+153,BITS F463,Cryptography,3,0,3
+154,BITS F464,Machine Learning,3,0,3
+155,BITS F465,Enterprise Computing,3,1,4
+156,BITS F466,Service Oriented Computing,3,1,4
+157,CS F314,Software Development for Portable Devices,2,1,3
+158,CS F320,Foundations of Data Science,3,0,3
+159,CS F401,Multimedia Computing,3,0,3
+160,CS F402,Computational Geometry,3,0,3
+161,CS F407,Artificial Intelligence,3,0,3
+162,CS F413,Internetworking Technologies,3,0,3
+163,CS F415,Data Mining,3,0,3
+164,CS F422,Parallel Computing,3,0,3
+165,CS F424,Software for Embedded Systems,3,1,4
+166,CS F441,Selected Topics from Computer Science,0,0,3
+167,CS F444,Real Time Systems,3,0,3
+168,CS F446,Data Storage Technologies and Networks,3,0,3
+169,CS F468,Information Security Project,0,3,3
+170,CS F469,Information Retrieval,3,0,3
+171,CS G513,Network Security,3,1,4
+172,CS G527,Cloud Computing,0,0,5
+173,IS F311,Computer Graphics,3,0,3
+174,IS F341,Software Engineering,3,1,4
+175,IS F462,Network Programming,3,0,3
+176,MATH F231,Number Theory,3,0,3
+177,MATH F421,Combinatorial Mathematics,3,0,3
+178,MATH F441,Discrete Mathematical Structures,3,0,3
+179,EEE F211,Electrical Machines,3,1,4
+180,EEE F212,Electromagnetic Theory,3,0,3
+181,EEE F214,Electronic Devices,3,0,3
+182,EEE F215,Digital Design,3,1,4
+183,EEE F241,Microprocessors and interfacing,3,1,4
+184,EEE F242,Control Systems,3,0,3
+185,EEE F243,Signals & Systems,3,0,3
+186,EEE F244,Microelectronic Circuits,3,0,3
+187,EEE F311,Communication Systems,3,1,4
+188,EEE F312,Power Systems,3,0,3
+189,EEE F313,Analog & Digital VLSI Design,3,0,3
+190,EEE F341,Analog Electronics,3,1,4
+191,EEE F342,Power Electronics,3,1,4
+192,MATH F212,Optimization,3,0,3
+193,CS F451,Combinatorial Mathematics,3,0,3
+194,CS G553,Reconfigurable Computing,0,0,5
+195,ECE F312,EM Fields and Microwave Engineering Laboratory,0,1,1
+196,ECE F343,Communication Networks,3,0,3
+197,EEE F245,Control System Laboratory,0,1,1
+198,EEE F246,Electrical and Electronic Circuits Laboratory,0,2,2
+199,EEE F345,Power Apparatus & Networks,3,0,3
+200,EEE F346,Data Communication Networks,2,0,2
+201,EEE F348,FPGA Based System Design Laboratory,0,2,2
+202,EEE F411,Internet of Things,3,1,4
+203,EEE F414,Telecommunication Switching Systems & Networks,3,0,3
+204,EEE F416,Digital Communication,3,0,3
+205,EEE F417,Computer Based Control System,3,0,3
+206,EEE F418,Modern Communication Technologies,3,0,3
+207,EEE F422,Modern Control Systems,3,0,3
+208,EEE F425,Power System Analysis and control,3,0,3
+209,EEE F426,Fiber Optics & Optoelectronics,3,0,3
+210,EEE F427,Electric Power Utilization and Illumination,3,0,3
+211,EEE F431,Mobile Telecommunication Networks,3,0,3
+212,EEE F432,Medical Instrumentation,3,0,3
+213,EEE F433,Electromagnetic Fields & Waves,3,0,3
+214,EEE F477,Modelling of Field-Effect NanoDevices,3,0,3
+215,EEE F478,Power Systems Laboratory,0,2,2
+216,EEE G512,Embedded System Design,3,1,4
+217,EEE G626,Hardware Software Co-Design,0,0,4
+218,ECE F211,Electrical Machines,3,1,4
+219,ECE F212,Electromagnetic Theory,3,0,3
+220,ECE F214,Electronic Devices,3,0,3
+221,ECE F215,Digital Design,3,1,4
+222,ECE F241,Microprocessors and interfacing,3,1,4
+223,ECE F242,Control Systems,3,0,3
+224,ECE F243,Signals & Systems,3,0,3
+225,EEE F434,Digital Signal Processing,3,1,4
+226,EEE F435,Digital Image Processing,3,0,3
+227,EEE F436,Electromagnetic Compatibility,3,1,4
+228,EEE F462,Advanced Power Systems,3,0,3
+229,EEE F472,Satellite Communication,3,0,3
+230,EEE F473,Wind Electrical Systems,3,0,3
+231,EEE F474,Antenna Theory and Design,3,1,4
+232,EEE F475,Special Electrical Machines,3,1,4
+233,EEE F476,Switchgear and Protection,3,1,4
+234,ECE F244,Microelectronic Circuits,3,0,3
+235,ECE F311,Communication Systems,3,1,4
+236,ECE F314,Electromagnetic Fields & Microwave Engineering,3,0,3
+237,ECE F341,Analog Electronics,3,1,4
+238,ECE F344,Information Theory & Coding,3,0,3
+239,ECE F434,Digital Signal Processing,3,1,4
+240,ECE F414,Telecommunication Switching Systems & Networks,3,0,3
+241,ECE F416,Digital Communication,3,0,3
+242,ECE F418,Modern Communication Technologies,3,0,3
+243,ECE F431,Mobile Telecommunication Networks,3,0,3
+244,ECE F472,Satellite Communication,3,0,3
+245,INSTR F412,Analysis Instrumentation,3,0,3
+246,INSTR F211,Electrical Machines,3,1,4
+247,INSTR F212,Electromagnetic Theory,3,0,3
+248,INSTR F214,Electronic Devices,3,0,3
+249,INSTR F215,Digital Design,3,1,4
+250,INSTR F241,Microprocessors and interfacing,3,1,4
+251,INSTR F242,Control Systems,3,0,3
+252,INSTR F243,Signals & Systems,3,0,3
+253,INSTR F244,Microelectronic Circuits,3,0,3
+254,INSTR F311,Electronic Instrumentation & Instrumentation Technology,3,1,4
+255,INSTR F312,Transducers and Measurement Systems,3,0,3
+256,INSTR F313,Analog & Digital VLSI Design,3,0,3
+257,INSTR F341,Analog Electronics,3,1,4
+258,INSTR F342,Power Electronics,3,1,4
+259,INSTR F343,Industrial Instrumentation & Control,3,0,3
+260,INSTR F413,Advanced Process Control,3,0,3
+261,INSTR F414,Telecommunication Switching Systems & Networks,3,0,3
+262,INSTR F415,Digital Control,3,0,3
+263,INSTR F419,Virtual Instrumentation,3,1,4
+264,INSTR F420,Design of Instrumentation Systems,3,0,3
+265,INSTR F422,Instrumentation for Petrochemical Industry,3,0,3
+266,INSTR F432,Medical Instrumentation,3,0,3
+267,INSTR F473,Wind Electrical Systems,3,0,3
+268,MF F211,Mechanics of Solids,3,0,3
+269,MF F216,Materials Science and Engineering,2,1,3
+270,MF F217,Machine Drawing,0,2,2
+271,MF F218,Transport Phenomena in Manufacturing,3,1,4
+272,MF F219,Operations Management,3,0,3
+273,MF F220,Metrology and Quality Assurance,2,1,3
+274,MF F221,Mechanisms and Machines,3,0,3
+275,MF F222,"Casting, Forming and Welding",3,1,4
+276,MF F314,Design of Machine Elements,3,0,3
+277,MF F315,Automation and Control,3,1,4
+278,MF F316,Machining and Machine Tools,3,1,4
+279,MF F317,Computer Aided Design and Manufacturing,2,1,3
+280,MF F318,Non Traditional Manufacturing Processes,3,0,3
+281,MF F319,Supply Chain Management,3,0,3
+282,MF F320,Engineering Optimization,3,0,3
+283,ECON F411,Project Appraisal,3,0,3
+284,ME F340,Introduction to Sports Engg.,3,0,3
+285,ME F416,Reverse Engineering and Rapid Prototyping,3,0,3
+286,ME F417,Advanced Metal Forming,3,0,3
+287,ME F419,Total Product Integration Engineering,3,0,3
+288,ME F424,Energy Management,3,0,3
+289,ME F425,Additive Manufacturing,3,0,3
+290,ME F426,Industry 4.0 in Manufacturing,3,0,3
+291,ME F432,Computer Aided Manufacturing,2,1,3
+292,ME F443,Quality Control Assurance and Reliability,3,0,3
+293,ME F484,Automotive Technology,3,0,3
+294,MF F411,Fluid Power Systems,3,1,4
+295,MF F412,Automotive Systems,3,0,3
+296,MF F413,Mechanical Vibrations and Acoustics,3,0,3
+297,MF F414,Manufacturing Excellence,3,0,3
+298,MF F418,Lean Manufacturing,3,0,3
+299,MF F442,Advances in Materials Science,3,0,3
+300,MF F453,Industrial Relations,3,0,3
+301,MF F463,Maintenance and Safety,3,0,3
+302,MF F471,Instrumentation and Control,3,0,3
+303,MF F472,Precision Engineering,3,0,3
+304,MF F473,Product Design and Development,3,0,3
+305,MF F474,Product Design and Development Projects,0,0,3
+306,ME F211,Mechanics of Solids,3,0,3
+307,ME F212,Fluid Mechanics,3,0,3
+308,ME F216,Materials Science and Engineering,2,1,3
+309,ME F217,Applied Thermodynamics,3,1,4
+310,ME F218,Advanced Mechanics of Solids,2,0,2
+311,ME F219,Manufacturing Processes,3,1,4
+312,ME F220,Heat Transfer,3,1,4
+313,ME F221,Mechanisms and Machines,3,0,3
+314,ME F314,Design of Machine Elements,3,0,3
+315,ME F315,Advanced Manufacturing Processes,2,1,3
+316,ME F316,Manufacturing Management,2,0,2
+317,ME F317,"Engines, Motors, and Mobility",2,0,2
+318,ME F318,Computer-Aided Design,1,2,3
+319,ME F319,Vibrations and Control,3,0,3
+320,ME F320,Engineering Optimization,3,0,3
+321,ME F341,Prime Movers & Fluid Machines,2,1,3
+322,BITS F327,Artificial Intelligence for Robotics,2,1,3
+323,DE G513,Tribology,3,2,5
+324,DE G514,Fracture Mechanics,3,2,5
+325,DE G531,Product Design,3,2,5
+326,MATH F313,Numerical Analysis,3,0,3
+327,ME F411,Fluid Power Systems,3,1,4
+328,ME F413,Nonlinear Vibrations,3,0,3
+329,ME F414,Fuel Cell Science and Technology,0,0,3*
+330,ME F415,Gas Dynamics,3,0,3
+331,ME F418,Rocket and Spacecraft Propulsion,3,0,3
+332,ME F420,Power Plant Engineering,3,0,3
+333,ME F423,Microfluidics and Applications,0,0,4
+334,ME F433,Solar Thermal Process Engineering,3,1,4
+335,ME F441,Automotive Vehicles,3,0,3
+336,ME F451,Mechanical Equipment Design,3,0,3
+337,ME F452,Composite Materials & Design,3,0,3
+338,ME F461,Refrigeration and Air conditioning,3,0,3
+339,ME F472,Precision Engineering,3,0,3
+340,ME F482,Combustion,3,0,3
+341,ME F483,Wind Energy,3,0,3
+342,ME F485,Numerical Techniques for Fluid Flow and Heat Transfer,3,0,3
+343,ME G511,Mechanism and Robotics,3,2,5
+344,ME G512,Finite Element Methods,3,2,5
+345,ME G514,Turbomachinery,3,2,5
+346,ME G515,Computational Fluid Dynamics,3,2,5
+347,ME G533,Conduction and Radiation Heat Transfer,3,2,5
+348,ME G534,Convective Heat and Mass Transfer,3,2,5
+349,MF F311,Mechatronics and Automation,2,1,3
+350,MF F421,Supply chain management,0,0,4
+351,MF F485,Sustainable Manufacturing,3,0,3
+352,MST G522,Advanced Composites,3,2,5
+353,BITS F219,Process Engineering,2,1,3
+354,PHA F211,Pharmaceutical Analysis,2,1,3
+355,PHA F212,Dispensing Pharmacy,2,1,3
+356,PHA F213,Microbiology,2,1,3
+357,PHA F214,"Anatomy, Physiology & Hygiene",2,1,3
+358,PHA F215,Introduction to Molecular Biology and Immunology,3,0,3
+359,PHA F241,Pharmaceutical Chemistry,2,1,3
+360,PHA F242,Biological Chemistry,2,1,3
+361,PHA F243,Industrial Pharmacy,2,1,3
+362,PHA F244,Physical Pharmacy,2,1,3
+363,PHA F311,Pharmacology I,2,1,3
+364,PHA F312,Medicinal Chemistry I,2,1,3
+365,PHA F313,Instrumental Methods of Analysis,2,1,4
+366,PHA F314,Pharmaceutical Formulations and Biopharmaceutics,2,1,3
+367,PHA F341,Pharmacology II,2,1,3
+368,PHA F342,Medicinal Chemistry II,2,1,3
+369,PHA F343,Forensic Pharmacy,2,0,2
+370,PHA F344,Natural Drugs,2,1,3
+371,PHA F413,Pharmaceutical Management and Quality Control,3,0,3
+372,PHA F414,Biopharmaceutics,3,0,3
+373,PHA F415,Pathophysiology,3,0,3
+374,PHA F416,Chemistry of Synthetic Drugs,3,0,3
+375,PHA F417,Pharmacoeconomics,3,0,3
+376,PHA F422,Cosmetic Science,2,1,3
+377,PHA F432,Hospital Pharmacy,3,0,3
+378,PHA F441,Biochemical Engineering,3,0,3
+379,PHA F442,Applied Pharmaceutical Chemistry,3,0,3
+380,PHA F461,Phytochemistry,2,1,3
+381,BIO F211,Biological Chemistry,3,0,3
+382,BIO F212,Microbiology,3,1,4
+383,BIO F213,Cell Biology,3,0,3
+384,BIO F214,Integrated Biology,3,0,3
+385,BIO F215,Biophysics,3,0,3
+386,BIO F241,Ecology & Environmental Science,3,0,3
+387,BIO F242,Introduction to Bioinformatics,3,0,3
+388,BIO F243,Genetics,3,0,3
+389,BIO F244,Instrumental Methods of Analysis,1,3,4
+390,BIO F311,Recombinant DNA Technology,3,0,3
+391,BIO F312,Plant Physiology,3,0,3
+392,BIO F313,Animal Physiology,3,0,3
+393,BIO F341,Developmental Biology,3,0,3
+394,BIO F342,Immunology,3,0,3
+395,BIO F216,"Water, Sanitation and Solid Waste Management",3,0,3
+396,BIO F217,"Laboratory for Water, Sanitation and Solid waste Management",1,2,3
+397,BIO F231,Biology Project Laboratory,0,0,3
+398,BIO F314,Conservation Biology,2,1,3
+399,BIO F315,Applied Nutrition and Nutraceuticals,2,0,2
+400,BIO F352,Cell and Tissue Culture Technology,3,1,4
+401,BIO F411,Laboratory,0,3,3
+402,BIO F413,Molecular Biology of Cell,3,0,3
+403,BIO F417,Biomolecular Modelling,3,0,3
+404,BIO F418,Genetic Engineering Techniques,1,3,4
+405,BIO F419,Molecular Evolution,3,0,3
+406,BIO F421,Enzymology,3,0,3
+407,BIO F431,Reproductive Physiology,3,0,3
+408,BIO F441,Biochemical Engineering,3,0,3
+409,BIO F451,Bioprocess Technology,3,0,3
+410,BIO G512,Molecular Mechanism of Gene Expression,3,2,5
+411,BIO G513,Microbial and Fermentation Technology,3,2,5
+412,BIO G515,Stem Cell and Regenerative Biology,3,1,4
+413,BIO G522,Interferon Technology,3,1,4
+414,BIO G523,Advanced and Applied Microbiology,3,2,5
+415,BIO G524,Animal Cell Technology,3,2,5
+416,BIO G525,Environmental Biotechnology & Waste Mgnt,3,2,5
+417,BIO G526,Cancer Biology,3,2,5
+418,BIO G544,Bioremediation and biometallurgy,5,0,5
+419,BIO G545,Molecular Parasitology and Vector Biology,0,0,5
+420,BIO G561,Advances in Recombinant DNA Technology,3,2,5
+421,BIO G570,Recent Developments in Biology,1,0,1
+422,BIO G612,Human Genetics,3,2,5
+423,BIO G631,Membrane and Liposome Technology,3,1,4
+424,BIO G632,Transgenic Technology,3,2,5
+425,BIO G642,Experimental Techniques,0,4,4
+426,BIO G643,Plant Biotechnology,3,2,5
+427,BIO G651,Protein and Enzyme Bioengineering,3,2,5
+428,BIO G661,Gene Toxicology,3,1,4
+429,CHEM F212,Organic Chemistry I,3,0,3
+430,CHEM F213,Physical Chemistry II,3,0,3
+431,CHEM F211,Physical Chemistry I,3,0,3
+432,CHEM F214,Inorganic Chemistry I,3,0,3
+433,CHEM F241,Inorganic Chemistry II,3,0,3
+434,CHEM F242,Chemical Experimentation I,0,3,3
+435,CHEM F243,Organic Chemistry II,3,0,3
+436,CHEM F244,Physical Chemistry III,3,0,3
+437,CHEM F311,Organic Chemistry III,3,0,3
+438,CHEM F312,Physical Chemistry IV,3,0,3
+439,CHEM F313,Instrumental Methods of Analysis,3,1,4
+440,CHEM F341,Chemical Experimentation II,0,4,4
+441,CHEM F342,Organic Chemistry IV,3,0,3
+442,CHEM F343,Inorganic Chemistry III,3,0,3
+443,PHY F212,Electromagnetic Theory I,3,0,3
+444,CHEM F223,Colloid and Surface Chemistry,3,0,3
+445,CHEM F320,Introductory Computational Chemistry Laboratory,0,4,2
+446,CHEM F323,Biophysical Chemistry,3,0,3
+447,CHEM F324,Numerical Methods in Chemistry,3,3,4
+448,CHEM F326,Solid State Chemistry,3,0,3
+449,CHEM F327,Electrochemistry: Fundamentals and Applications,3,0,3
+450,CHEM F328,Supramolecular Chemistry,3,0,3
+451,CHEM F329,Analytical Chemistry,3,1,4
+452,CHEM F330,Photophysical Chemistry,3,1,4
+453,CHEM F333,Chemistry of Materials,3,0,3
+454,CHEM F334,Magnetic Resonance,3,0,3
+455,CHEM F335,Organic Chemistry and Drug Design,3,0,3
+456,CHEM F336,Nanochemistry,3,1,4
+457,CHEM F337,Green Chemistry and Catalysis,3,0,3
+458,CHEM F412,Photochemistry and Laser Spectroscopy,3,0,3
+459,CHEM F413,Electron Correlation In Atoms And Molecules,3,1,4
+460,CHEM F414,Bio and Chemical Sensors,3,0,3
+461,CHEM F415,Frontiers in Organic Synthesis,3,0,3
+462,CHEM F422,Statistical Thermodynamics,3,0,3
+463,CHEM F430,Atmospheric Chemistry,3,0,3
+464,CHEM F431,Sustainable Chemistry using Renewables,3,0,3
+465,CHEM G521,Environmental Chemistry,0,0,5
+466,ECON F211,Principles of Economics,3,0,3
+467,ECON F212,Fundamentals of Finance and Accounts,3,0,3
+468,ECON F213,Mathematical and Statistical Methods,3,0,3
+469,ECON F214,Economic Environment of Business,3,0,3
+470,ECON F241,Econometric Methods,3,0,3
+471,ECON F242,Microeconomics,3,0,3
+472,ECON F243,Macroeconomics,3,0,3
+473,ECON F244,Economics of Growth and Development,3,0,3
+474,ECON F311,International Economics,3,0,3
+475,ECON F312,"Money, Banking and Financial Markets",3,0,3
+476,ECON F313,Issues in Economic Development,3,0,3
+477,ECON F341,Public Finance Theory and Policy,3,0,3
+478,ECON F342,Applied Econometrics,3,0,3
+479,ECON F343,Economic Analysis of Public Policy,3,0,3
+480,BITS F314,Game Theory and It’s Applications,3,0,3
+481,ECON F315,Financial Management,3,0,3
+482,ECON F314,Industrial Economics,3,0,3
+483,ECON F345,Behavioral Economics,3,0,3
+484,ECON F351,Indian Economic Development,3,0,3
+485,ECON F352,Management of Banks and Financial Institutions,3,0,3
+486,ECON F353,Energy Economics and Policy,3,0,3
+487,ECON F354,Derivatives and Risk Management,3,0,3
+488,ECON F355,Business Analysis and Valuation,3,0,3
+489,ECON F356,Strategic Financial Management,3,0,3
+490,ECON F357,Management Control System,3,0,3
+491,ECON F412,Security Analysis and Portfolio Management,3,0,3
+492,ECON F413,Financial Engineering,3,0,3
+493,ECON F414,Creating and Leading Entrepreneurial Organizations,3,0,3
+494,ECON F415,New Venture Creation,3,0,3
+495,ECON F417,Risk Management and Insurance,3,0,3
+496,ECON F418,Quantitative Analysis of International Trade,3,0,3
+497,ECON F422,Functions and Working of Stock Exchanges,3,0,3
+498,ECON F434,International Business,3,0,3
+499,ECON F435,Marketing Research,3,0,3
+500,ECON F471,Resources and Environmental Economics,3,0,3
+501,FIN F314,Investment Banking and Financial Services,3,0,3
+502,FIN F414,Financial Risk Analytics and Management,3,0,3
+503,MATH F242,Operations Research,3,0,3
+504,MATH F213,Discrete Mathematics,3,0,3
+505,MATH F214,Elementary Real Analysis,3,0,3
+506,MATH F215,Algebra-I,3,0,3
+507,MATH F241,Mathematical Methods,3,0,3
+508,MATH F243,Graphs and Networks,3,0,3
+509,MATH F244,Measure & Integration,3,0,3
+510,MATH F311,Introduction to Topology,3,0,3
+511,MATH F312,Ordinary Differential Equations,3,0,3
+512,MATH F341,Introduction to Functional Analysis,3,0,3
+513,MATH F342,Differential Geometry,3,0,3
+514,MATH F343,Partial Differential Equations,3,0,3
+515,MATH F314,Algebra-II,3,0,3
+516,MATH F353,Statistical Inference and Applications,3,0,3
+517,MATH F354,Complex Analysis,3,0,3
+518,MATH F378,Advanced Probability Theory,3,0,3
+519,MATH F420,Mathematical Modeling,3,0,4
+520,MATH F422,Numerical Methodology for Partial Differential Equations,3,1,4
+521,MATH F423,Introduction to Algebraic Topology,3,0,3
+522,MATH F424,Applied Stochastic Process,3,1,4
+523,MATH F431,Distribution Theory,3,0,3
+524,MATH F432,Applied Statistical Methods,3,0,3
+525,MATH F444,Numerical Solutions of Ordinary Differential Equations,3,0,3
+526,MATH F445,Mathematical Fluid Dynamics,3,0,3
+527,MATH F456,Cosmology,3,0,3
+528,MATH F471,Nonlinear Optimization,3,0,3
+529,MATH F481,Commutative Algebra,3,0,3
+530,MATH F492,Wavelet analysis and applications,3,1,4
+531,PHY F211,Classical Mechanics,3,1,4
+532,PHY F213,Optics,3,0,3
+533,PHY F214,"Electricity, Magnetism & Optics Laboratory",0,2,2
+534,PHY F241,Electromagnetic Theory II,3,1,4
+535,PHY F242,Quantum Mechanics I,3,0,3
+536,PHY F243,Mathematical Methods of Physics,3,0,3
+537,PHY F244,Modern Physics Laboratory,0,2,2
+538,PHY F311,Quantum Mechanics II,3,0,3
+539,PHY F312,Statistical Mechanics,3,0,3
+540,PHY F313,Computational Physics,3,0,3
+541,PHY F341,Solid State Physics,3,0,3
+542,PHY F342,Atomic & Molecular Physics,3,0,3
+543,PHY F343,Nuclear & Particle Physics,3,0,3
+544,PHY F344,Advanced Physics Laboratory,0,3,3
+545,BITS F316,Nonlinear Dynamics and Chaos,3,0,3
+546,BITS F317,Theoretical Neuroscience,3,0,3
+547,BITS F446,Pattern Recognition 3EEE F426 Fibre Optics & Optoelectronics,3,0,3
+548,PHY F215,Introduction to Astronomy & Astrophysics,3,0,3
+549,PHY F315,Theory of Relativity,3,0,3
+550,PHY F316,Musical Acoustics,3,0,3
+551,PHY F317,Introduction to Radio Astronomy,3,0,3
+552,PHY F378,Plasma Physics and its Applications,3,0,3
+553,PHY F379,Thin Film Technology,3,0,3
+554,PHY F412,Introduction To Quantum Field Theory,3,1,4
+555,PHY F413,Particle Physics,3,1,4
+556,PHY F414,Physics of Advanced Materials,3,1,4
+557,PHY F415,General Theory of Relativity and Cosmology,3,1,4
+558,PHY F416,Soft Condensed Matter Physics,3,1,4
+559,PHY F417,Experimental Methods of Physics,3,1,4
+560,PHY F418,Lasers and Applications,3,1,4
+561,PHY F419,Advanced Solid State Physics,3,1,4
+562,PHY F420,Quantum Optics,3,1,4
+563,PHY F421,Advanced Quantum Mechanics,3,1,4
+564,PHY F422,Group Theory and Applications,3,1,4
+565,PHY F423,Special Topics in Statistical Mechanics,3,1,4
+566,PHY F424,Advanced Electrodynamics,3,1,4
+567,PHY F425,Advanced Mathematical Methods of Physics,3,1,4
+568,PHY F426,Physics of Semiconductor Devices,3,1,4
+569,PHY F427,Atmospheric Physics,3,0,3
+570,PHY F428,Quantum Information Theory,3,0,3
+571,PHY F431,Geometrical Methods in Physics,3,0,3
+572,PHY F432,Classical Theory of Fields: A Symmetry Perspective,0,0,4
+573,PHY G512,Advanced Quantum Field Theory,3,0,3
+574,GS F221,Business Communication,3,0,3
+575,GS F222,Language Lab Practice,0,3,3
+576,GS F223,Introduction to Mass Communication,3,0,3
+577,GS F224,Print and Audio Visual Advertising,2,1,3
+578,GS F241,Creative Writing,2,1,3
+579,GS F243,Current Affairs,3,0,3
+580,GS F244,Reporting and Writing for Media,3,0,3
+581,GS F245,Effective Public Speaking,2,1,3
+582,GS F321,Mass Media Content and Design,2,1,3
+583,GS F322,Critical Analysis of Literature and Cinema,3,0,3
+584,GS F342,Computer Mediated Communication,3,0,3
+585,GS F343,Short Film and Video Production,2,1,3
+586,BITS F385,Introduction to Gender Studies,3,0,3
+587,GS F211,Modern Political Concepts,3,0,3
+588,GS F212,"Environment, Development & Climate Change",3,0,3
+589,GS F231,Dynamics of Social Change,3,0,3
+590,GS F232,Introductory Psychology,3,0,3
+591,GS F242,Cultural Studies,3,0,3
+592,GS F311,Introduction to Conflict Management,3,0,3
+593,GS F325,Journalism,3,0,3
+594,GS F326,Creative Thinking,2,1,3
+595,GS F327,Selected Reading,3,0,3
+596,GS F333,Public Administration,3,0,3
+597,GS F334,Global Business Technology & Knowledge Sharing,3,0,3
+598,GS F344,Copywriting,2,0,2
+599,HSS F227,Cross Cultural Skills,3,0,3
+600,HSS F232,Introduction to Development Studies,3,0,3
+601,HSS F315,"Society, Business, and Politics",3,0,3
+602,HSS F317,Introduction to Globalization,3,0,3
+603,HSS F319,Lighting for Theatre and Films,0,0,2
+604,HSS F323,Organizational Psychology,3,0,3
+605,HSS F328,Human Resource Development,3,0,3
+606,HSS F341,Performance Design,1,2,3
+607,HSS F343,Professional Ethics,3,0,3
+608,HSS F346,International Relations,3,0,3
+609,GS F213,Development Theories,3,0,3
+610,GS F233,Public Policy,3,0,3
+611,GS F234,Development Economics,3,0,3
+612,GS F312,Applied Philosophy,3,0,3
+613,GS F331,Techniques in Social Research,3,0,3
+614,GS F332,Contemporary India,3,0,3
+615,BITS F214,"Science, Technology and Modernity",3,0,3
+616,BITS F399,Humanistic Theories of Science and Technology,3,0,3
+617,HSS F233,Main Trends in Indian History,3,0,3
+618,HSS F234,Main Currents of Modern History,3,0,3
+619,HSS F235,Introductory Philosophy,3,0,3
+620,HSS F236,Symbolic Logic,3,0,3
+621,HSS F312,Bureaucracy,3,0,3
+622,HSS F344,Heritage of India,3,0,3
+623,HSS F345,Gandhian Thoughts,3,0,3
+624,XXX F266,Study Project,0,0,3
+625,XXX F366,Laboratory Project,0,0,3
+626,XXX F367,Laboratory Project,0,0,3
+627,XXX F376,Design Project,0,0,3
+628,XXX F377,Design Project,0,0,3
+629,XXX F491,Special Project,0,0,3
+630,BITS F226,Soft Skills for Professionals,3,0,3
+631,BITS F419,Management of Cross Cultural Engineering Teams,3,0,3
+632,GS F313,Marxian Thoughts,3,0,3
+633,HSS F221,Readings from Drama,3,0,3
+634,HSS F222,Linguistics,3,0,3
+635,HSS F223,Appreciation of Indian Music,3,0,3
+636,HSS F226,Postmodernism,3,0,3
+637,HSS F228,Phonetics & Spoken English,3,0,3
+638,HSS F229,Introduction to Western Music,3,0,3
+639,HSS F237,Contemporary Indian English Fiction,3,0,3
+640,HSS F238,Sports and Society,3,0,3
+641,HSS F244,Crime and New Media,3,0,3
+642,HSS F245,"Gender, Science and Technology",3,0,3
+643,HSS F246,Philosophy of Nāgārjuna,3,0,3
+644,HSS F247,Social Informatics,3,0,3
+645,HSS F248,Introduction to Disability Studies,3,0,3
+646,HSS F249,Politics in India,3,0,3
+647,HSS F266,Study Project,0,0,3
+648,HSS F311,Introduction to Videogame Studies,3,0,3
+649,HSS F313,Introduction to Contemporary Arts,3,0,3
+650,HSS F316,Popular Literature and Culture of South Asia,3,0,3
+651,HSS F318,Introduction to Anthropology,3,0,3
+652,HSS F325,Cinematic Adaptation,3,0,3
+653,HSS F326,Humanities and Design,2,1,3
+654,HSS F327,Contemporary Drama,3,0,3
+655,HSS F329,Musicology – An – Introduction,3,0,3
+656,HSS F330,Appreciation of Art,3,0,3
+657,HSS F331,Sankara’s Thoughts,3,0,3
+658,HSS F332,Cinematic Art,0,0,3
+659,HSS F333,Comparative Religion,3,0,3
+660,HSS F334,Srimad Bhagavad Gita,3,0,3
+661,HSS F335,Literary Criticism,3,0,3
+662,HSS F336,Modern Fiction,3,0,3
+663,HSS F337,English Literary Forms and Movements,3,0,3
+664,HSS F338,Comparative Indian Literature,3,0,3
+665,HSS F339,Theatre Art Acting and Production,3,0,3
+666,HSS F340,Post Colonial Literatures,3,0,3
+667,HSS F342,Advanced Communicative English,3,0,3
+668,HSS F347,Introduction to Carnatic Music,3,0,3
+669,HSS F348,Introduction to Hindustani Music,3,0,3
+670,HSS F349,Ecocriticism,3,0,3
+671,HSS F350,"Human Rights: History, Theory & Practice",3,0,3
+672,HSS F351,Social and Political Ecology,3,0,3
+673,HSS F352,"Technology, Work and Society",3,0,3
+674,HSS F353,Philosophy of Aesthetics,3,0,3
+675,HSS F354,Introduction to Islamic Economy,3,0,3
+676,HSS F355,"Dictatorship, Democracy &",3,0,3
+677,HSS F356,Social Movements and Protest Politics,3,0,3
+678,HSS F364,Political Economy of Gulf Cooperation Council States,3,0,3
+679,HSS F365,Science of Sustainable Happiness,3,0,3
+680,HSS F368,Asian Cinemas and Cultures,3,0,3
+681,HSS F369,Caste and Gender in India,3,0,3
+682,HSS F371,"Cities-Life, Issues and Conflicts",3,0,3
+683,HSS F372,Introduction to Social Psychology,3,0,3
+684,HSS F373,Shakespeare and Popular Culture,3,0,3
+685,HSS F374,Urban Modernity and the Renewal of Paris,3,0,3
+686,HSS F399,Introduction to American Literature,3,0,3
+687,SANS F111,Sanskrit,3,0,3
+688,BITS C483,Indian Wisdom for Modern Management,3,0,3
+689,BITS F211,Introduction to IPR,0,0,1
+690,BITS F212,Introduction to Human Rights,0,0,1
+691,BITS F213,Introduction to Environmental studies,0,0,1
+692,BITS F215,Applications of Bio-Medical Instrumentation Techniques in Healthcare,2,0,2
+693,BITS F217,"Environment, Development and Climate Change",3,0,3
+694,BITS F225,Environmental Studies,3,0,3
+695,BITS F319,Negotiation Skills and Techniques,2,0,2
+696,BITS F320,Managerial Skills,0,0,2
+697,BITS F321,Legal and Economic Environment of Business,0,0,4
+698,BITS F333,Project on Organisational Aspects,0,0,3
+699,BITS F334,Project on Organisational Aspects,0,0,3
+700,BITS F372,Data Communications and Networks,3,0,3
+701,BITS F381,TIC Projects,0,0,3
+702,BITS F382,Reading Course,0,0,3
+703,BITS F383,TIC Projects,0,0,3
+704,BITS F398,Creative Multimedia,2,2,3
+705,BITS F414,Introduction to Bioinformatics,3,0,3
+706,BITS F428,Essentials of Strategic Management,3,0,3
+707,BITS F431,Flexible Manufacturing Systems,3,2,3
+708,BITS F441,Robotics,0,0,3
+709,BITS F442,Remote Sensing and Image Processing,0,0,3
+710,BITS F444,Artificial Intelligence,0,0,3
+711,BITS F445,Neural Networks and Applications,3,0,3
+712,BITS F447,Multimedia Computing,3,0,3
+713,BITS F448,Retail Management Systems,3,0,3
+714,BITS F449,Financial Engineering,3,0,3
+715,BITS F461,Software Engineering,0,0,3
+716,BITS F462,Renewable Energy,3,0,3
+717,BITS F468,New Venture Creation,3,0,3
+718,BITS F469,Financing Infrastructure Projects,3,0,3
+719,BITS F488,Services Management Systems,3,0,3
+720,BITS F490,Project Management,0,0,4
+721,BITS F493,Business Analysis and Valuation,3,0,3
+722,BITS F494,Environmental Impact Assessment,3,1,4
+723,BITS G516,Introduction to Business Sustainability,3,0,3
+724,BITS G517,Cross Cultural Management,3,0,3
+725,MGTS F351,Organisational Behaviour,3,0,3
+726,MGTS F433,Advertising and Sales Promotion,3,0,3
+727,PHY F221,Modern Physics,3,0,3
 728,PHY F345,Quantum Mechanics for Engineers,3,0,3
-729,PHY F378,Plasma Physics and its Applications,3,0,3
-730,PHY F379,Thin Film Technology,3,0,3
-731,PHY F412,Introduction To Quantum Field Theory,3,1,4
-732,PHY F413,Particle Physics,3,1,4
-733,PHY F414,Physics of Advanced Materials,3,1,4
-734,PHY F415,General Theory of Relativity and Cosmology,3,1,4
-735,PHY F416,Soft Condensed Matter Physics,3,1,4
-736,PHY F417,Experimental Methods of Physics,3,1,4
-737,PHY F418,Lasers and Applications,3,1,4
-738,PHY F419,Advanced Solid State Physics,3,1,4
-739,PHY F420,Quantum Optics,3,1,4
-740,PHY F421,Advanced Quantum Mechanics,3,1,4
-741,PHY F422,Group Theory and Applications,3,1,4
-742,PHY F423,Special Topics in Statistical Mechanics,3,1,4
-743,PHY F424,Advanced Electrodynamics,3,1,4
-744,PHY F425,Advanced Mathematical Methods of Physics,3,1,4
-745,PHY F426,Physics of Semiconductor Devices,3,1,4
-746,PHY F427,Atmospheric Physics,3,0,3
-747,PHY F428,Quantum Information Theory,3,0,3
-748,PHY F431,Geometrical Methods in Physics,3,0,3
-749,PHY F432,Classical Theory of Fields: A Symmetry Perspective,0,0,4
-750,PHY G512,Advanced Quantum Field Theory,3,0,3
-751,SANS F111,Sanskrit,3,0,3
-752,XXX F266,Study Project,0,0,3
-753,XXX F366,Laboratory Project,0,0,3
-754,XXX F367,Laboratory Project,0,0,3
-755,XXX F376,Design Project,0,0,3
-756,XXX F377,Design Project,0,0,3
-757,XXX F491,Special Project,0,0,3
+729,BIO F110,Biology laboratory,0,2,1
+730,BIO F111,General Biology,3,0,3
+731,CHEM F110,Chemistry Laboratory,0,2,1
+732,PHY F110,Physics Laboratory,0,2,1
+733,PHY F111,"Mechanics, Oscillations and Waves",3,0,3
+734,PHY F112,General Physics,3,0,3
+735,MATH F111,Mathematics I,3,0,3
+736,MATH F112,Mathematics II,3,0,3
+737,MATH F113,Probability & Statistics,3,0,3
+738,MATH F211,Mathematics III,3,0,3
+739,BITS F218,General Mathematics III,3,0,3
+740,BITS F111,Thermodynamics,3,0,3
+741,BITS F112,Technical Report Writing,2,0,2
+742,BITS F113,General Mathematics I,3,0,3
+743,BITS F114,General Mathematics II,3,0,3
+744,BITS F221,Practice School I,0,0,5
+745,BITS F231,Practice School I,0,0,5
+746,BITS F241,Practice School I,0,0,5
+747,BITS F412,Practice School II,0,0,20
+748,BITS F413,Practice School II,0,0,20
+749,BITS F421T,Thesis,0,0,16
+750,BITS F422T,Thesis,0,0,16
+751,BITS F423T,Thesis,0,0,9
+752,BITS F424T,Thesis,0,0,9
+753,BITS F110,Engineering Graphics,1,2,2
+754,ME F112,Workshop Practice,0,4,2
+755,CS F111,Computer Programming,3,2,4
+756,EEE F111,Electrical Sciences,3,0,3
+757,MGTS F211,Principles of Management,3,0,3
